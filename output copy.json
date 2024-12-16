@@ -1,0 +1,1784 @@
+[
+ {
+    "Acıklama": "… ve yapay zekâya ilgi artmakta ve bunlar üzerine yapılan çalışmalarda artmaktadır. Özelikle \ninsansı robotlarla birlikte yapay zekâ ve yapay sinir ağları çalışmaları hızlanmıştır. Yapay sinir …",
+    "Baslık": "Yapay sinir ağları ve yapay zekâ'ya genel bir bakış",
+    "Yazar": "K Öztürk, ME Şahin - Takvim-i Vekayi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/takvim/issue/40063/427526",
+    "id": {
+      "$oid": "65e19e14f57f6991536d05e8"
+    },
+    "CikisTarihi": "2018",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/596690"
+  },
+  {
+    "Acıklama": "… konusu üç başlık altında ve üç soru ile incelenerek, zeka ve ilgili kavramlar “yapay zeka \naslında nedir?” sorusuyla; yapay zekanın eğitime ne şekilde katkı sağlayacağı “yapay zeka …",
+    "Baslık": "Eğitimde yapay zekâ ve uygulamaları",
+    "Yazar": "K Arslan - Batı Anadolu Eğitim Bilimleri Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/baebd/issue/55426/690058",
+    "id": {
+      "$oid": "65e19e14f57f6991536d05e9"
+    },
+    "CikisTarihi": "2020",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1174773"
+  },
+  {
+    "Acıklama": "… yönetim süreçlerinde dijital dönüşüm ve yapay zekânın bu alanda ki … yapay zeka \naraştırmalarının da sonucu olarak; sağlık hizmetlerinin idari ve klinik açıdan sanallaşması, yapay …",
+    "Baslık": "SAĞLIKTA DİJİTALLEŞME VE YAPAY ZEKÂ",
+    "Yazar": "B AKALIN, Ü VERANYURT - SDÜ Sağlık Yönetimi Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/sdusyd/issue/60581/842035",
+    "id": {
+      "$oid": "65e19e14f57f6991536d05ea"
+    },
+    "CikisTarihi": "2020",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1452754"
+  },
+  {
+    "Acıklama": "… Geliştirilen örnek uygulama ile yapay zeka tekniklerinin internet üzerinde zeki yazılımlar … \nGelecekte yapay zeka tekniklerinin gelişmesi ve internet üzerinde bütünleşik çalışabilen zeki …",
+    "Baslık": "[PDF][PDF] Yapay zeka teknikleri ve yapay sinir ağları kullanılarak web sayfalarının sınıflandırılması",
+    "Yazar": "A Uğur, AC Kınacı - XI. Türkiye'de İnternet Konferansı (inet-tr') …,  - inet-tr.org.tr",
+    "Yonlendirme": "http://inet-tr.org.tr/inetconf11/kitap/ugur_kinaci_inet06.pdf",
+    "id": {
+      "$oid": "65e19e14f57f6991536d05eb"
+    },
+    "CikisTarihi": "062006",
+    "Indirme": "http://inet-tr.org.tr/inetconf11/kitap/ugur_kinaci_inet06.pdf"
+  },
+  {
+    "Acıklama": "… Yapay zeka; zeki makineler özellikle de, zeki bilgisayar programları yapma bilimi ve \nmühendisliğidir. “Tıbbi yapay zeka”nın temel ilgi alanı klinik teşhis işlemlerini …",
+    "Baslık": "[PDF][PDF] Tıpta yapay zeka uygulamaları",
+    "Yazar": "A Demirhan, YA Kılıç, G İnan -  - tr.newworldai.com",
+    "Yonlendirme": "https://tr.newworldai.com/wp-content/uploads/2017/01/T%C4%B1pta-Yapay-Zeka.pdf",
+    "id": {
+      "$oid": "65e19e14f57f6991536d05ec"
+    },
+    "CikisTarihi": "2010",
+    "Indirme": "https://tr.newworldai.com/wp-content/uploads/2017/01/T%C4%B1pta-Yapay-Zeka.pdf"
+  },
+  {
+    "Acıklama": "… sağlık alanında yapay zeka nasıl kullanılmaktadır? Hangi sağlık alanlarında yapay zeka \nkullanılmaktadır… Sağlıkta yapay zekanın başarısı gibi merak edilen sorulara cevaplar aranacaktır. …",
+    "Baslık": "[PDF][PDF] Dijital sağlık uygulamalarında yapay zeka",
+    "Yazar": "S Büyükgöze, E Dereli - … ve Mesleki Çalışmalar Kongresi-Fen ve …,  - researchgate.net",
+    "Yonlendirme": "https://www.researchgate.net/profile/Selma-Buyukgoze/publication/339091309_Dijital_Saglik_Uygulamalarinda_Yapay_Zeka/links/5e3d4bad458515072d868263/Dijital-Saglik-Uygulamalarinda-Yapay-Zeka.pdf",
+    "id": {
+      "$oid": "65e19e14f57f6991536d05ed"
+    },
+    "CikisTarihi": "2019",
+    "Indirme": "https://www.researchgate.net/profile/Selma-Buyukgoze/publication/339091309_Dijital_Saglik_Uygulamalarinda_Yapay_Zeka/links/5e3d4bad458515072d868263/Dijital-Saglik-Uygulamalarinda-Yapay-Zeka.pdf"
+  },
+  {
+    "Acıklama": "… Eskinin elle defter tutma döneminden günümüzün big data kavramına ve gelecekteki \nyapay zeka muhasebeciler kavramına kadar uzanan bu uzun zaman yolculuğu elbette birçok …",
+    "Baslık": "Dijitalleşme-yapay zeka ve muhasebe beklentiler",
+    "Yazar": "G Yücel, B Adiloğlu - Muhasebe ve Finans Tarihi Araştırmaları …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/muftad/issue/46942/589319",
+    "id": {
+      "$oid": "65e19e14f57f6991536d05ee"
+    },
+    "CikisTarihi": "2019",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/757445"
+  },
+  {
+    "Acıklama": "… yapay zekâ teknolojileri eğitim sektöründe de kullanılmaya başlanmıştır. Bu makalede, \neğitimde yapay zekâ … paylaşılmıştır ve eğitim sektöründe yapay zekâ teknolojilerinin Türkiye ve …",
+    "Baslık": "EĞİTİMDE YAPAY ZEKÂ KULLANIMI VE GELİŞİMİ",
+    "Yazar": "B İşler, M KILIÇ - Yeni Medya Elektronik Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/ejnm/issue/58097/738221",
+    "id": {
+      "$oid": "65e19e14f57f6991536d05ef"
+    },
+    "CikisTarihi": "2021",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1106175"
+  },
+  {
+    "Acıklama": "Makinelerin insan gibi öğrenen, karar veren, tahmin eden yapılar hale getirme düşüncesi \nyapay zekânın mantığını oluşturmaktadır. Bu kitapta yapay zekâ ve en sık kullanılan yöntemler …",
+    "Baslık": "[KİTAP][B] Yapay zekâ",
+    "Yazar": "DRÖĞRÜA YILMAZ -  - books.google.com",
+    "Yonlendirme": "https://books.google.com/books?hl=tr&lr=&id=JsoqEAAAQBAJ&oi=fnd&pg=PA1&dq=yapay+zeka&ots=8LUXVSbKF1&sig=JzaXlpVR5xxS9WHVHZhOGV6N8vw",
+    "id": {
+      "$oid": "65e19e14f57f6991536d05f0"
+    },
+    "CikisTarihi": "2021",
+    "Indirme": "https://www.researchgate.net/profile/Nuran-Akyurt/publication/348394351_Oyun_Degistiren_Guc_YAPAY_ZEKA_SAGLIK_EGITIMINDE_SANAL_GERCEKLIK_-_RADYOLOJIDE_SANAL_GERCEKLIGIN_KULLANIMI_VE_UYGULAMALARI/links/5ffcba99a6fdccdcb84a3348/Oyun-Degistiren-Guec-YAPAY-ZEKA-SAGLIK-EGITIMINDE-SANAL-GERCEKLIK-RADYOLOJIDE-SANAL-GERCEKLIGIN-KULLANIMI-VE-UYGULAMALARI.pdf"
+  },
+  {
+    "Acıklama": "… için, yapay zeka … “yapay zekaya dönük politika bildirileri” yapay zeka ile koordinatör devlet \nilişkisinin temellerinin atıldığı bir düzleme işaret etmektedir. Koordinatör devletin yapay zeka …",
+    "Baslık": "Yapay zeka bağlamında dijital dönüşüm ofisi",
+    "Yazar": "HY Tamer, B Övgün - Ankara Üniversitesi SBF Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/ausbf/issue/54549/691119",
+    "id": {
+      "$oid": "65e19e15f57f6991536d05f1"
+    },
+    "CikisTarihi": "2020",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/974381"
+  },
+  {
+    "Acıklama": "… Bu çalışmada, büyük veri analizinde yapay zekâ ve makine öğrenmesi tekniklerinin kullanımı \ntartışılmıştır. Başlıca yapay zekâ ve makine öğrenmesi teknikleri hakkında bilgiler verilerek, …",
+    "Baslık": "Büyük veri analizinde yapay zekâ ve makine öğrenmesi uygulamalari-artificial intelligence and machine learning applications in big data analysis",
+    "Yazar": "M Atalay, E Çelik - Mehmet Akif Ersoy Üniversitesi Sosyal Bilimler …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/tr/doi/10.20875/makusobed.309727",
+    "id": {
+      "$oid": "65e19e15f57f6991536d05f2"
+    },
+    "CikisTarihi": "2017",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/387269"
+  },
+  {
+    "Acıklama": "… Yapay zeka , insan tarafından yapıldığında zeka olarak adlandırılan davranışların (… Yapay \nzeka'nın insan aklının nasıl çalıştığını gösteren bir kuram olduğu da söylenebilir. Yapay zeka'…",
+    "Baslık": "[PDF][PDF] Yapay zekâ tekniklerinin trafik kontrolünde kullanilmasi üzerine bir inceleme",
+    "Yazar": "M Tektaş, A Akbaş, V Topuz - … ve Yol Güvenliği Kongresi, Gazi Ü …,  - kadirgurbetci.com.tr",
+    "Yonlendirme": "http://kadirgurbetci.com.tr/yonetim/dosya/0444e4fab9hnk.pdf",
+    "id": {
+      "$oid": "65e19e15f57f6991536d05f3"
+    },
+    "CikisTarihi": "2002",
+    "Indirme": "http://kadirgurbetci.com.tr/yonetim/dosya/0444e4fab9hnk.pdf"
+  },
+  {
+    "Acıklama": "… Bu çalışmada da yapay zekâ araştırmalarının çeviri alanına yansımaları … zekâ ve yapay \nzekâ kavramları üzerinde durulmaktadır. İkinci bölümde geçmişten günümüze kadar yapay zekâ …",
+    "Baslık": "Çeviride Yapay Zeka Uygulamalari",
+    "Yazar": "E Kuşçu - Atatürk Üniversitesi Kazım Karabekir Eğitim Fakültesi …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/ataunikkefd/issue/2789/37502",
+    "id": {
+      "$oid": "65e19e15f57f6991536d05f4"
+    },
+    "CikisTarihi": "2015",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/31612"
+  },
+  {
+    "Acıklama": "… Aslında yapay zeka kavramı bu kadar yeni bir kavram değil, aksine yapay zekanın ortaya … \nTeknolojik gelişmelere bağlı olarak çeşitli yapay zeka programları oluşturulmuş ve robotlar …",
+    "Baslık": "Yapay zekanın toplum üzerindeki etkisi ve yapay zekâ (AI) filmi bağlamında yapay zekaya bakış",
+    "Yazar": "S İpek - Uluslararası Ders Kitapları ve Eğitim Materyalleri …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/ijotem/issue/50671/643204",
+    "id": {
+      "$oid": "65e19e15f57f6991536d05f5"
+    },
+    "CikisTarihi": "2019",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/887226"
+  },
+  {
+    "Acıklama": "… Yapay zeka bilimi ile uğraşmayan insanların yapay zeka teknolojisinden bekledikleri ve \ngörmeyi umut ettikleri konu son zamanlarda çekilen \"Yapay Zeka\" isimli filimde kendisini …",
+    "Baslık": "[PDF][PDF] Yapay Zeka Teknolojilerinin Endüstrideki Uygulamalari",
+    "Yazar": "T Bozüyük, C Yağci, İ Gökçe, A Görkem -  - tektasi.net",
+    "Yonlendirme": "http://tektasi.net/wp-content/uploads/2014/01/yapay-zeka-teknolojilerinin-end%C3%BCstrideki-uygulamalari.pdf",
+    "id": {
+      "$oid": "65e19e15f57f6991536d05f6"
+    },
+    "CikisTarihi": "2005",
+    "Indirme": "http://tektasi.net/wp-content/uploads/2014/01/yapay-zeka-teknolojilerinin-end%C3%BCstrideki-uygulamalari.pdf"
+  },
+  {
+    "Acıklama": "… , öncelikle yapay zekâ kavramı ve yapay zekâ türlerinin incelenmesi amaçlanmaktadır. \nAkabinde ise, insan hakları bağlamında yapay zekâ hukuku ve yapay zekâ uygulamalarının …",
+    "Baslık": "Yapay Zekâ ve İnsan Hakları",
+    "Yazar": "N Singil - Public and Private International Law Bulletin,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/ppil/issue/67916/970856",
+    "id": {
+      "$oid": "65e19e15f57f6991536d05f7"
+    },
+    "CikisTarihi": "2022",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1878577"
+  },
+  {
+    "Acıklama": "… Bu bildiri ile Yapay Zeka ile ilgili … Yapay Zeka’nın anlasılabilmesi için algoritmalar ve zeka \nüzerine düsünmek gerekir. Sırasıyla Algoritmalar ve Zeki Sistemler bölümleri ile Yapay Zeka’…",
+    "Baslık": "[PDF][PDF] Yapay zeka'nın teorik ve pratik sınırları",
+    "Yazar": "Y Köroglu - Boğaziçi Üniversitesi Yayınevi,  - cmpe.boun.edu.tr",
+    "Yonlendirme": "https://www.cmpe.boun.edu.tr/~yavuz.koroglu/publications/EBES17.pdf",
+    "id": {
+      "$oid": "65e19e15f57f6991536d05f8"
+    },
+    "CikisTarihi": "2017",
+    "Indirme": "https://www.cmpe.boun.edu.tr/~yavuz.koroglu/publications/EBES17.pdf"
+  },
+  {
+    "Acıklama": "… altında yatan akla zekâ denmektedir. Yapay zekâ araştırmacısı Fogel’e4 göre zekâ bir dizi \n… diğer tüm canlılardan çok daha üstün seviyede zekâ kabiliyetlerine sahiptirler. Elbette bu …",
+    "Baslık": "Yapay zeka olgusunun güncel sanat çalışmalarındaki açılımları",
+    "Yazar": "S Artut - İnsan ve İnsan,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/tr/doi/10.29224/insanveinsan.478162",
+    "id": {
+      "$oid": "65e19e15f57f6991536d05f9"
+    },
+    "CikisTarihi": "2019",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/845090"
+  },
+  {
+    "Acıklama": "… Bu çalışmada, trans-hümanizm hareketi temelinde ortaya çıkan ölümsüzlük, yapay zekâ … \nYaşamın uzatılması veya ölüme çare bulunması, yapay zekâ ile zekanın daha da geliştirilip, …",
+    "Baslık": "Ölümsüzlük ve yapay zekâ bağlamında trans-hümanizm",
+    "Yazar": "A Demir - AJIT-e: Academic Journal of Information Technology,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/ajit-e/article/740734",
+    "id": {
+      "$oid": "65e19e15f57f6991536d05fa"
+    },
+    "CikisTarihi": "2018",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1113735"
+  },
+  {
+    "Acıklama": "… yapay zekânın ne olduğu, kullanım alanları, hukuk dünyası ile etkileşiminden doğabilecek \netkiler, yapay zekâ … İnsanlık için yapay zekâ, olumlu yanları itibariyle yazının bulunmasıyla …",
+    "Baslık": "Yapay zekâ ve hukukuna genel bir bakış",
+    "Yazar": "G Erdoğan - Adalet Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/adaletdergisi/issue/62377/940007",
+    "id": {
+      "$oid": "65e19e17f57f6991536d05fb"
+    },
+    "CikisTarihi": "2021",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1778256"
+  },
+  {
+    "Acıklama": "… zor işlevleri kolaylaştırmak için yapay zekâ teknolojilerini kullanmaktadırlar. Yapay zekâ, \nİK … Çalışmanın sonucunda, yapay zekâ ve İnsan kaynakları yönetimi vakalarının kesişmesi …",
+    "Baslık": "Yapay zekâ alanindaki gelişmelerin insan kaynaklari yönetimine etkisi",
+    "Yazar": "YE Gür, C Ayden, A Yücel - Fırat Üniversitesi Uluslararası İktisadi ve …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/fuuiibfdergi/issue/51484/668229",
+    "id": {
+      "$oid": "65e19e17f57f6991536d05fc"
+    },
+    "CikisTarihi": "2019",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/911917"
+  },
+  {
+    "Acıklama": "… geniş bir kullanım alanı bulan yapay zeka teknikleri, mühendislik … Yapay zeka tekniklerinin \nkullanımı ile ilgili literatür … kullanılan yapay zeka tekniklerinden bulanık mantık, yapay sinir …",
+    "Baslık": "Yapay zekâ tekniklerinin inşaat mühendisliği problemlerinde kullanımı",
+    "Yazar": "T Uygunoğlu, Ş Yurtçu - Yapı Teknolojileri Elektronik Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/yted/issue/22220/238539",
+    "id": {
+      "$oid": "65e19e17f57f6991536d05fd"
+    },
+    "CikisTarihi": "2006",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/206926"
+  },
+  {
+    "Acıklama": "… ve yapay zekâ kavramı hükümet, şirketler ve akademiden büyük ilgi görmüştür. Yapay zekâ, \n… ; bu nedenle robotik ve yapay zekanın gelecekte günlük hayatımızın neredeyse her alanına …",
+    "Baslık": "Yapay Zekâ İletişiminde Chatgpt: İnsanlaşan Dijitalleşmenin Geleceği",
+    "Yazar": "A KOÇYİĞİT, AB DARI - Stratejik Ve Sosyal Araştırmalar Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/sisad/issue/79190/1311336",
+    "id": {
+      "$oid": "65e19e17f57f6991536d05fe"
+    },
+    "CikisTarihi": "2023",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/3195908"
+  },
+  {
+    "Acıklama": "… Sanayi Devrimi’nin en temel kavramı olan yapay zekanın çok disiplinli … Yapay zekâ üzerine \nyapılan tanımlamalara bir sonraki bölümde yer verilmiştir ancak genel olarak yapay zekâ, …",
+    "Baslık": "Gastronomideki robotik uygulamalar ve yapay zekâ",
+    "Yazar": "ŞB Uzan, Y Sevimli - Tourism and Recreation,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/tourismandrecreation/issue/59266/777446",
+    "id": {
+      "$oid": "65e19e17f57f6991536d05ff"
+    },
+    "CikisTarihi": "2020",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1228865"
+  },
+  {
+    "Acıklama": "… Kişisel bir çalışma olarak yaklaşık iki senedir Yapay Zeka üzerine okuyor ve sosyo-… yapay \nzekâya aktarmak henüz gerçekleştirilememiştir fakat nöronların kopyalanarak yapay zekâ …",
+    "Baslık": "[PDF][PDF] Ölümlülük, ölümsüzlük ve yapay zekâ",
+    "Yazar": "E Acar - İstanbul: Alt Kitap,  - turuz.com",
+    "Yonlendirme": "https://turuz.com/storage/her_konu-2020-1/9665-Olumluluk-Olumsuzluk_Ve_Yapay_Zeka-_Elif_Acar-2007-82s_.pdf",
+    "id": {
+      "$oid": "65e19e17f57f6991536d0600"
+    },
+    "CikisTarihi": "2007",
+    "Indirme": "https://turuz.com/storage/her_konu-2020-1/9665-Olumluluk-Olumsuzluk_Ve_Yapay_Zeka-_Elif_Acar-2007-82s_.pdf"
+  },
+  {
+    "Acıklama": "… Türkiye’deki yapay zeka ve sanat ilişkisine baktığımızda bir gelişim içerisinde olduğu \ngörülmektedir. Türkiye’de de yapay zekâ ve sanat adına ses getiren etkileyici çalışmalar …",
+    "Baslık": "[PDF][PDF] Yapay zekâ Algoritmalarinin dijital Enstalasyona Dönüşmesi",
+    "Yazar": "A Toprak - Ege Üniversitesi İletişim Fakültesi Yeni Düşünceler …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/download/article-file/1338883",
+    "id": {
+      "$oid": "65e19e17f57f6991536d0601"
+    },
+    "CikisTarihi": "2020",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1338883"
+  },
+  {
+    "Acıklama": "… yapay zekâ, gelecekte kimi mesleklerin yerini alacak, kimilerini de dönüşüme uğratacaktır. \nMuhasebe ve denetim meslekleri de yapay … , pek çok sektör ve alanda yapay zekâlı ürünler …",
+    "Baslık": "[PDF][PDF] MUHASEBE VE DENETİM MESLEKLERİNİN DİJİTAL DÖNÜŞÜMÜNDE YAPAY ZEKÂ.",
+    "Yazar": "M Serçemeli - Electronic Turkish Studies,  - researchgate.net",
+    "Yonlendirme": "https://www.researchgate.net/profile/Murat-Sercemeli-2/publication/330000856_MUHASEBE_VE_DENETIM_MESLEKLERININ_DIJITAL_DONUSUMUNDE_YAPAY_ZEKA_ARTIFICIAL_INTELLIGENCE_IN_DIGITAL_TRANSFORMATION_OF_ACCOUNTING_AND_AUDITING_PROFESSIONS/links/5c2f48f392851c22a3593d65/MUHASEBE-VE-DENETIM-MESLEKLERININ-DIJITAL-DOeNUeSUeMUeNDE-YAPAY-ZEKA-ARTIFICIAL-INTELLIGENCE-IN-DIGITAL-TRANSFORMATION-OF-ACCOUNTING-AND-AUDITING-PROFESSIONS.pdf",
+    "id": {
+      "$oid": "65e19e1af57f6991536d0602"
+    },
+    "CikisTarihi": "2018",
+    "Indirme": "https://www.researchgate.net/profile/Murat-Sercemeli-2/publication/330000856_MUHASEBE_VE_DENETIM_MESLEKLERININ_DIJITAL_DONUSUMUNDE_YAPAY_ZEKA_ARTIFICIAL_INTELLIGENCE_IN_DIGITAL_TRANSFORMATION_OF_ACCOUNTING_AND_AUDITING_PROFESSIONS/links/5c2f48f392851c22a3593d65/MUHASEBE-VE-DENETIM-MESLEKLERININ-DIJITAL-DOeNUeSUeMUeNDE-YAPAY-ZEKA-ARTIFICIAL-INTELLIGENCE-IN-DIGITAL-TRANSFORMATION-OF-ACCOUNTING-AND-AUDITING-PROFESSIONS.pdf"
+  },
+  {
+    "Acıklama": "… yapay zekâ çalışmaları, yapay zekâ alanında yaşanan iktidar mücadeleleri, öznel bilginin \nyansız bir yapay … olarak yapay zekâ çalışmaları yapay zekânın üretimi ve bilimselliğini değil, …",
+    "Baslık": "Yapay zekâ sosyolojisi üzerine bir değerlendirme",
+    "Yazar": "A Emin, B ERBAY - Gaziantep University Journal of Social Sciences,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/jss/issue/68239/991383",
+    "id": {
+      "$oid": "65e19e1af57f6991536d0603"
+    },
+    "CikisTarihi": "2022",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1958088"
+  },
+  {
+    "Acıklama": "… yardımcı yapay zekâ, karar taslaklarını hazırlayan yapay zekâ ve karar veren yapay zekâ … \nYargı uygulamasında kullanılacak yapay zekâ ilk olarak bir etik çerçeveye sahip olmalıdır. Zira …",
+    "Baslık": "Yargı Uygulamasinda Yapay Zekâ Kullanımı-Yapay Zekâ Hâkim Cübbesini Giyebilecek mi?",
+    "Yazar": "OG YILMAZ - Adalet Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/adaletdergisi/issue/62377/940417",
+    "id": {
+      "$oid": "65e19e1af57f6991536d0604"
+    },
+    "CikisTarihi": "2021",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1779680"
+  },
+  {
+    "Acıklama": "… ile sağlık hizmetleri ve yönetiminde yapay zekâ uygulamalarının kullanılması kaçınılmazdır. \nSağlık … Umut vaat eden çözümleriyle yapay zekâ uygulamalarının kullanımında gerekli yasal …",
+    "Baslık": "Sağlık hizmetleri ve yönetiminde yapay zekâ",
+    "Yazar": "B AKALIN, Ü Veranyurt - Acta Infologica,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/acin/issue/63212/850857",
+    "id": {
+      "$oid": "65e19e1af57f6991536d0605"
+    },
+    "CikisTarihi": "2021",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1479836"
+  },
+  {
+    "Acıklama": "… yapay zeka tekniklerinin kullanımında büyük oranda artış olduğu görülmektedir. Yapay zekanın \n… Yapay zeka, insan zekasının fizyolojik ve nörolojik yapısını çeşitli teknolojiler yardımı ile …",
+    "Baslık": "[HTML][HTML] Yapay zeka ve makine öğrenmesi tekniklerinin lojistik sektöründe kullanımı",
+    "Yazar": "BL Aylak, O Okan, K YAZICI - El-Cezeri,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/ecjse/article/776314",
+    "id": {
+      "$oid": "65e19e1af57f6991536d0606"
+    },
+    "CikisTarihi": "2021",
+    "Indirme": "https://dergipark.org.tr/en/pub/ecjse/article/776314"
+  },
+  {
+    "Acıklama": "… İnsanlar yapay zekâ ile etkileşime girdikçe yapay zekâ ve yapay zekâ kullanımından doğan \nbazı zararlara maruz kalmaya başlamış ve yapay zekânın verdiği bu zararların klasik borçlar …",
+    "Baslık": "MEDENİ HUKUK AÇISINDAN YAPAY ZEKÂNIN HUKUKİ STATÜSÜ VE YAPAY ZEKÂ KULLANIMINDAN DOĞAN HUKUKİ SORUMLULUK.",
+    "Yazar": "B Bak - Türkiye Adalet Akademisi Dergisi,  - search.ebscohost.com",
+    "Yonlendirme": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=13096826&AN=132027751&h=6VPhM9hghO0Rowg0OI1gM%2FqYuNoaxAjV1jxTBNJG0MsuJsP5%2BpmM7po09v5JAu%2FX1b8twkG58T1E5kvESaXzjQ%3D%3D&crl=c",
+    "id": {
+      "$oid": "65e19e1af57f6991536d0607"
+    },
+    "CikisTarihi": "2018",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… Bu çalışmada yapay zeka ve yapay zekanın Her filmi üzerindeki etkisinin … yapay zekanın \ntarihi, yapay zeka alandaki çalışmalarının ne düzeyde olduğu, gelecekte insan ve yapay zeka …",
+    "Baslık": "DİJİTAL EVRENİN YENİ DÜNYASI OLARAK YAPAY ZEKA VE HER FİLMİ ÜZERİNE BİR ÇALIŞMA",
+    "Yazar": "S İpek, E ATAMAN - Yeni Medya Elektronik Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/ejnm/issue/51095/666171?publisher=aydin",
+    "id": {
+      "$oid": "65e19e1af57f6991536d0608"
+    },
+    "CikisTarihi": "2020",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/904595"
+  },
+  {
+    "Acıklama": "… e-ticaret işletmelerinin yapay zekâ … yapay zekânın nasıl uygulandığı konusu üzerinde \ndeğerlendirmeler yapılacaktır. Bu çerçevede yapay zekânın uygulama alanlarından ve yapay zekâ …",
+    "Baslık": "Yapay Zekâ Uygulamalarının E-Ticarette Kullanımı",
+    "Yazar": "H Güven, ETA Güven - International Journal of Management and …,  - ceeol.com",
+    "Yonlendirme": "https://www.ceeol.com/search/article-detail?id=1113539",
+    "id": {
+      "$oid": "65e19e1af57f6991536d0609"
+    },
+    "CikisTarihi": "2023",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/2732528"
+  },
+  {
+    "Acıklama": "… yapay zekâ insan beynine göre çok daha hızlı çalışabilmektedir. Genel olarak makineler \ntarafından gösterilen zekâ olarak tanımlanan yapay zekâ, … Yapay zekâ kavramının 1956 yılında …",
+    "Baslık": "Yapay zeka ve eğitimde gelecek senaryoları",
+    "Yazar": "M Çetin, A Aktaş - OPUS International Journal of Society …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/opus/issue/63558/911444",
+    "id": {
+      "$oid": "65e19e1af57f6991536d060a"
+    },
+    "CikisTarihi": "2021",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1691494"
+  },
+  {
+    "Acıklama": "… Öz: Yapay zeka uygulamaları ve yapay zekaya entegre edilen robotik teknolojiler … yapay \nzekanın gelişimi üzerine dini ve tarihsel arka planı ortaya koyarak başlamaktadır. Yapay …",
+    "Baslık": "Yapay zekâ, toplum ve din'in geleceği",
+    "Yazar": "H KAFALI - Ondokuz Mayıs Üniversitesi İlahiyat Fakültesi Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/omuifd/article/470376",
+    "id": {
+      "$oid": "65e19e1af57f6991536d060b"
+    },
+    "CikisTarihi": "2019",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/738757"
+  },
+  {
+    "Acıklama": "… biri olan yapay zekâ da insan yaşamında bir devrim yaratmıştır. Yapay zekânın etkilediği \nalanlardan biri de yükseköğretimdir. Dijital devrimin bir sonucu olarak ortaya çıkan yapay zekâ, …",
+    "Baslık": "Eğitimde yeni bir paradigma:“Yükseköğretimde yapay zekâ”",
+    "Yazar": "G TAŞÇI, M Çelebi - OPUS International Journal of Society …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/opus/article/747634",
+    "id": {
+      "$oid": "65e19e1bf57f6991536d060c"
+    },
+    "CikisTarihi": "2020",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1134302"
+  },
+  {
+    "Acıklama": "… Yapay Zekâ (… yapay bilincin ortaya çıkması ve suçun evrimi ile ilgili bir yolculuk, seyirciye \nanlatılmaktadır. Gelecekte insanların Yapay Zekâ (AI) ile nasıl başa çıkacaklarını ve Yapay Zekâ …",
+    "Baslık": "[PDF][PDF] Halkla İlişkiler Perspektifiyle Yapay Zekâ (AI)",
+    "Yazar": "ŞG Ilıcak Aydınalp - Turkish Studies-Social Sciences,  - acikerisim.gelisim.edu.tr",
+    "Yonlendirme": "https://acikerisim.gelisim.edu.tr/xmlui/bitstream/handle/11363/6300/document%20(12).pdf?sequence=1",
+    "id": {
+      "$oid": "65e19e1bf57f6991536d060d"
+    },
+    "CikisTarihi": "2020",
+    "Indirme": "https://acikerisim.gelisim.edu.tr/xmlui/bitstream/handle/11363/6300/document%20(12).pdf?sequence=1"
+  },
+  {
+    "Acıklama": "… Turing'in bu düşününü yapay zekâ örneğinde … yapay zekâyı analiz eden metin, eş zamanlı \nolarak CW Mllls'in toplumbilimsel imgelem kavramının farklı açılımlarını yine yapay zekâ …",
+    "Baslık": "Alan Turing'in toplumbilimsel düşünü: toplumsal bir düş olarak yapay zekâ",
+    "Yazar": "Ç Topal - Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/dtcfdergisi/issue/66796/1044708",
+    "id": {
+      "$oid": "65e19e1bf57f6991536d060e"
+    },
+    "CikisTarihi": "2017",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/2153779"
+  },
+  {
+    "Acıklama": "… Bu çalışmada Toplum 5.0’la birlikte insan hayatına egemen olması beklenen yapay zeka … \nbirlikte yapay zekâ odaklı bir devlet kurumunun inşa edileceği değerlendirilmektedir. …",
+    "Baslık": "Beşinci Sanayi Devrimi Toplum 5.0 ve Yapay Zekâ Kültürü",
+    "Yazar": "R Koçak - Uluslararası Halkbilimi Araştırmaları Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/uhad/issue/58003/789785",
+    "id": {
+      "$oid": "65e19e1bf57f6991536d060f"
+    },
+    "CikisTarihi": "2020",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1271553"
+  },
+  {
+    "Acıklama": "… zekâ sistemlerinin gerisinde kalıyoruz. Fakat, bilim insanları her ne kadar yapay zeka sistemleri \nüretseler de acaba bu üretilen yapay zeka sistemleri biyolojik olarak varolan insan beyni …",
+    "Baslık": "[PDF][PDF] YAPAY ZEKÂ BAĞLAMINDA ETİK PROBLEMİ.",
+    "Yazar": "V Çelebi, A İnal - Journal of International Social Research,  - avesis.erciyes.edu.tr",
+    "Yonlendirme": "https://avesis.erciyes.edu.tr/yayin/561f651f-9e76-4db3-9850-aa3dd836b285/yapay-zeka-baglaminda-etik-problemi/document.pdf",
+    "id": {
+      "$oid": "65e19e1bf57f6991536d0610"
+    },
+    "CikisTarihi": "2019",
+    "Indirme": "https://avesis.erciyes.edu.tr/yayin/561f651f-9e76-4db3-9850-aa3dd836b285/yapay-zeka-baglaminda-etik-problemi/document.pdf"
+  },
+  {
+    "Acıklama": "… sorunlarına hassas arkadaşlarım, yapay zekâ teknolojilerini dünyanın iklim ve çevre … acaba \nperakendecilik yapay zekâ teknolojileriyle nasıl değişecek? Avukat bir arkadaşım yapay zekâ …",
+    "Baslık": "[KİTAP][B] Daha iyi bir dünya için yapay zekâ",
+    "Yazar": "O Koç, M Kasap -  - books.google.com",
+    "Yonlendirme": "https://books.google.com/books?hl=tr&lr=&id=HWPXEAAAQBAJ&oi=fnd&pg=PA15&dq=yapay+zeka&ots=cGXXDezAcq&sig=V7t-3Cr8TGhdI5_brAFA-QAt-So",
+    "id": {
+      "$oid": "65e19e1bf57f6991536d0611"
+    },
+    "CikisTarihi": "2023",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… Yapay zeka insanlar tarafından yapıldığında zeka olarak … Yapay zekanın amacı insanın \nzekasını bilgisayar aracılığı ile … Yapay zeka sistemleri bu programlara iyi bir örnektir (1). …",
+    "Baslık": "[ALINTI][C] Yapay zekâ teknikleri ve radyolojiye uygulanması",
+    "Yazar": "S Serhatlıoğlu, F Hardalaç - Fırat Tıp Dergisi,  - elyadal.org",
+    "Yonlendirme": "https://www.elyadal.org/pivolka/18/PiVOLKA_18_01.pdf",
+    "id": {
+      "$oid": "65e19e1bf57f6991536d0612"
+    },
+    "CikisTarihi": "2009",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… Özet: Yapay zekâ kavramı, son dönemde gerçekleşen inanılmaz … Yapay zekâ teknolojilerinin \nyaygınlaşmasıyla ve sosyal … Yapay zekâlarla ilgili hukuksal tartışmaların yürütüldüğü …",
+    "Baslık": "[PDF][PDF] YAPAY ZEKÂ VE TELİF HAKKI",
+    "Yazar": "M Zorluel - Türkiye Barolar Birliği Dergisi,  - academia.edu",
+    "Yonlendirme": "https://www.academia.edu/download/59757296/Yapay_Zeka_ve_Telif_Hakki_20190616-80389-xhgy85.pdf",
+    "id": {
+      "$oid": "65e19e1bf57f6991536d0613"
+    },
+    "CikisTarihi": "2019",
+    "Indirme": "https://www.academia.edu/download/59757296/Yapay_Zeka_ve_Telif_Hakki_20190616-80389-xhgy85.pdf"
+  },
+  {
+    "Acıklama": "… ‘te Nevada'da yapmasını, yapay zekâlı ilk kişisel asistan Siri'… 'ın yapay zekâ kolu DeepMind'in \ngeliştirdiği AlphaGo adlı yapay … son olarak 2017'de yapay zekânın uzay görevlerinde keşif …",
+    "Baslık": "Yapay zekâ ve robotik sistemlerin kütüphanecilik mesleğine olan etkileri",
+    "Yazar": "M YILDIZ, BF YILDIRIM - Türk Kütüphaneciliği,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/tk/article/618425",
+    "id": {
+      "$oid": "65e19e1bf57f6991536d0614"
+    },
+    "CikisTarihi": "2018",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/805076"
+  },
+  {
+    "Acıklama": "… Gerek yapay zeka konusunda yayınlanan çok sayıda araştırma ve sağlık hizmetlerine … \nharcayan yapay zeka şirketleri, önümüzdeki yıllarda sağlık hizmetlerinde yapay zeka ürünlerinin …",
+    "Baslık": "Tıp fakültesi öğrencilerinin tıpta yapay zekâ ile ilgili düşünceleri",
+    "Yazar": "EE ÖCAL, A Emrah, MF ÖNSÜZ, F ALGIN… - Türk Tıp Öğrencileri …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/toad/issue/54158/690620",
+    "id": {
+      "$oid": "65e19e1bf57f6991536d0615"
+    },
+    "CikisTarihi": "2020",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1086720"
+  },
+  {
+    "Acıklama": "… Bu çalışmada, programlama becerisi kazandırmak, bir programlama dilinin öğrenimini … \nrobot programlama tekniklerini kullanan bir model önerilmektedir. Robot programlama dünyada …",
+    "Baslık": "[PDF][PDF] Programlama dilleri öğretimine bir model önerisi: robot programlama",
+    "Yazar": "H Ersoy, RO Madran, Y Gülbahar - Akademik bilişim,  - ab.org.tr",
+    "Yonlendirme": "https://ab.org.tr/ab11/kitap/ersoy_madran_AB11.pdf",
+    "id": {
+      "$oid": "65e19e1df57f6991536d0616"
+    },
+    "CikisTarihi": "2011",
+    "Indirme": "https://ab.org.tr/ab11/kitap/ersoy_madran_AB11.pdf"
+  },
+  {
+    "Acıklama": "… Özet: Programlama, herhangi bir problemin bir programlama … Programlama mantığı öğretimi \nise, programlama öğretiminin ilk … Programlama dili eğitimi alan öğrencilerin yabancı dile ve …",
+    "Baslık": "[PDF][PDF] Bilgisayar programlama öğretiminde yeni bir yaklaşım",
+    "Yazar": "T Arabacıoğlu, Hİ Bülbül, A Filiz - Akademik bilişim,  - academia.edu",
+    "Yonlendirme": "https://www.academia.edu/download/11053664/arabacioglu_bulbul_ab07.pdf",
+    "id": {
+      "$oid": "65e19e1df57f6991536d0617"
+    },
+    "CikisTarihi": "2007",
+    "Indirme": "https://www.academia.edu/download/11053664/arabacioglu_bulbul_ab07.pdf"
+  },
+  {
+    "Acıklama": "… Ayrıca programlama yoluyla başka konu alanlarındaki (örneğin Fen Bilgisi) kavramların \nve … de programlama etkinliğinin doğası gereği son derece kolayca programlama içinde …",
+    "Baslık": "[PDF][PDF] Bilgi toplumu okullarında programlama eğitimi gereksinimi",
+    "Yazar": "Y Akpınar, A Altun - Elementary Education Online,  - core.ac.uk",
+    "Yonlendirme": "https://core.ac.uk/download/pdf/230034142.pdf",
+    "id": {
+      "$oid": "65e19e1df57f6991536d0618"
+    },
+    "CikisTarihi": "2014",
+    "Indirme": "https://core.ac.uk/download/pdf/230034142.pdf"
+  },
+  {
+    "Acıklama": "… bilişsel becerilerin programlama eğitimiyle kazandırılabileceği … , programlama eğitiminde \nçeşitli zorlukların yaşandığı belirtilmektedir. Bu kapsamda çalışmanın amacı, programlama …",
+    "Baslık": "[PDF][PDF] Programlama eğitiminde yaşanan zorluklar ve çözüm önerileri",
+    "Yazar": "Ş SAYGINER, H TÜZÜN - Uluslararası Bilgisayar ve Öğretim …,  - academia.edu",
+    "Yonlendirme": "https://www.academia.edu/download/55277166/2.pdf",
+    "id": {
+      "$oid": "65e19e1df57f6991536d0619"
+    },
+    "CikisTarihi": "2017",
+    "Indirme": "https://www.academia.edu/download/55277166/2.pdf"
+  },
+  {
+    "Acıklama": "… içersine programlama becerisine sahip bireylerin kazandırılmasına, nitelikli programlama … \nBilişim sektörü içerisinde önemli bir rolü olan programlama uygulamalarıyla ilgili üzerinde …",
+    "Baslık": "[PDF][PDF] Programlama eğitiminde sadelik ve eğlence: Scratch örneği",
+    "Yazar": "SB Kert, T Uğraş - The First International Congress of Educational …,  - academia.edu",
+    "Yonlendirme": "https://www.academia.edu/download/34971233/kert_ugras_scratch.pdf",
+    "id": {
+      "$oid": "65e19e1df57f6991536d061a"
+    },
+    "CikisTarihi": "2009",
+    "Indirme": "https://www.academia.edu/download/34971233/kert_ugras_scratch.pdf"
+  },
+  {
+    "Acıklama": "… programlama öğretiminde etkili olduğu ve programlama öğrenimini zevkli ve daha anlaşılır \nhale getirdiği söylenebilir. Ayrıca programlama … , Scratch programlama ortamının kodlama …",
+    "Baslık": "Scratch yazılımı ile programlama öğretiminin durumu: Bir doküman inceleme çalışması",
+    "Yazar": "Ş ÇATLAK, M TEKDAL, BAZ Fatih - Journal of Instructional …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/jitte/issue/25088/264774",
+    "id": {
+      "$oid": "65e19e1df57f6991536d061b"
+    },
+    "CikisTarihi": "2015",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/231335"
+  },
+  {
+    "Acıklama": "… programlama öğretiminin etkisi olduğuna işaret etmektedir. Bu nedenle bu çalışmada \nprogramlama … sınıfta öğrenim gören, programlama temelleri dersini alan ve derse devam eden 54 …",
+    "Baslık": "Programlama öğretiminin bilgi işlemsel düşünme becerisine etkisi",
+    "Yazar": "DA SIRAKAYA - Türkiye Sosyal Araştırmalar Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/tsadergisi/issue/47639/448409",
+    "id": {
+      "$oid": "65e19e1df57f6991536d061c"
+    },
+    "CikisTarihi": "2019",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/779583"
+  },
+  {
+    "Acıklama": "… için grafik programlama desteği sunan mBlock programlama … Öğrencilere programlama \nöğretimini fiziksel bir robotla … sanal robot programlama ortamları ve robot programlama dilleri gibi …",
+    "Baslık": "[PDF][PDF] Programlama öğretiminde robot kullanımı-mbot örneği",
+    "Yazar": "M Numanoğlu, H Keser - Bartin Üniversitesi Egitim Fakültesi Dergisi,  - acarindex.com",
+    "Yonlendirme": "https://www.acarindex.com/pdfler/acarindex-5856-8564.pdf",
+    "id": {
+      "$oid": "65e19e1df57f6991536d061d"
+    },
+    "CikisTarihi": "2017",
+    "Indirme": "https://www.acarindex.com/pdfler/acarindex-5856-8564.pdf"
+  },
+  {
+    "Acıklama": "… öğrenen özellikleri arasında tanımlanan teknoloji okuryazarlığı, aslında karmaşık ve zor bir \nsüreç olan programlama becerisidir. Genellikle bilgisayar programlama ya da programlama …",
+    "Baslık": "[PDF][PDF] Bilişimsel düşünme ve programlama",
+    "Yazar": "AGM YILDIZ, E ÇİFTÇİ, H KARAL - Eğitim teknolojileri okumaları,  - researchgate.net",
+    "Yonlendirme": "https://www.researchgate.net/profile/Merve-Yildiz-2/publication/320592639_Bilisimsel_Dusunme_ve_Programlama/links/59ef530ca6fdccd492871e01/Bilisimsel-Duesuenme-ve-Programlama.pdf",
+    "id": {
+      "$oid": "65e19e1df57f6991536d061e"
+    },
+    "CikisTarihi": "2017",
+    "Indirme": "https://www.researchgate.net/profile/Merve-Yildiz-2/publication/320592639_Bilisimsel_Dusunme_ve_Programlama/links/59ef530ca6fdccd492871e01/Bilisimsel-Duesuenme-ve-Programlama.pdf"
+  },
+  {
+    "Acıklama": "… öğretmen adaylarına özellikle ilköğretim öğrencileri için programlama eğitimine yönelik \npedagojik bilgiler verilmiş ve öğrencilere programlama öğretmek için kullanılan güncel araçların …",
+    "Baslık": "Bilişim teknolojileri öğretmen adaylarının bilgisayar programlama öğretimine yönelik görüşleri",
+    "Yazar": "E Yükseltürk, S ALTIOK - Amasya Üniversitesi Eğitim Fakültesi …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/amauefd/issue/1732/21264",
+    "id": {
+      "$oid": "65e19e1df57f6991536d061f"
+    },
+    "CikisTarihi": "2015",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/19646"
+  },
+  {
+    "Acıklama": "… yönelik tasarlanan programlama araçlarının tanıtılması ve programlama eğitimine yönelik … \nöncelikle programlama eğitimi ile ilgili literatür taraması yapılmış ve programlama eğitimin …",
+    "Baslık": "Programming education and new approaches around the world and in Turkey/Dünyada ve Türkiye'de programlama eğitimi ve yeni yaklaşımlar",
+    "Yazar": "V Demirer, SAK Nurcan - Eğitimde Kuram ve Uygulama,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/eku/issue/26697/280853",
+    "id": {
+      "$oid": "65e19e1ef57f6991536d0620"
+    },
+    "CikisTarihi": "2016",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/262355"
+  },
+  {
+    "Acıklama": "Kalman Filtresi Özet: Bu makalede Kalman Filtresinin temelden başlayarak tüm aşamalarının \nuygumalı olarak anlatılması hedeflenmiştir. Kalman filtresi 20 yüzyılın en önemli …",
+    "Baslık": "[PDF][PDF] Kalman filtresi ve programlama",
+    "Yazar": "İ ÇAYIROĞLU - Fen ve Teknoloji Bilgi Paylaşimi,  - ibrahimcayiroglu.com",
+    "Yonlendirme": "https://ibrahimcayiroglu.com/Dokumanlar/Makale_BilgiPaylasim/(1-2012)-Kalman_Filtresi_Ve_Bir_Programlama_Ornegi-Ibrahim_CAYIROGLU.pdf",
+    "id": {
+      "$oid": "65e19e1ef57f6991536d0621"
+    },
+    "CikisTarihi": "2012",
+    "Indirme": "https://ibrahimcayiroglu.com/Dokumanlar/Makale_BilgiPaylasim/(1-2012)-Kalman_Filtresi_Ve_Bir_Programlama_Ornegi-Ibrahim_CAYIROGLU.pdf"
+  },
+  {
+    "Acıklama": "Bugün eğitim hizmetleri ulusların yaşamında en büyük harcama kalemlerinden birini \noluşturmaktadır. Ancak hiçbir toplum uzun süre yüksek maliyetli ve düşük verimli bir eğitime …",
+    "Baslık": "MODÜLER PROGRAMLAMA VE TÜRKİYE'DE UYGULAMASI",
+    "Yazar": "C Alkan - Ankara University Journal of Faculty of Educational …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/auebfd/issue/48019/607447",
+    "id": {
+      "$oid": "65e19e1ef57f6991536d0622"
+    },
+    "CikisTarihi": "2019",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… programlama dillerini bildiği, haftada kaç saat programlama dersine çalıştığı ve en son aldığı \nprogramlama … dönem bilgisayar programlama dersini ilk kez alan öğrencilerden isim ve …",
+    "Baslık": "[PDF][PDF] Programlama dersi ile ilgili özdüzenleyici öğrenme stratejileri ve başarı arasındaki ilişkinin incelenmesi",
+    "Yazar": "T Haşlaman, P Aşkar - Hacettepe Üniversitesi Eğitim Fakültesi …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/download/article-file/87609",
+    "id": {
+      "$oid": "65e19e1ef57f6991536d0623"
+    },
+    "CikisTarihi": "2007",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/87609"
+  },
+  {
+    "Acıklama": "… Bu araştırma da, halihazırda bilişim teknolojileri dersinde görsel programlama öğretimi \nyapan öğretmenlerin gözünden ilköğretimde görsel programlama öğretiminin incelenmesini …",
+    "Baslık": "Bilişim teknolojileri öğretmenlerinin görsel programlama öğretimi deneyimleri",
+    "Yazar": "E Yecan, H ÖZÇINAR, T Tanyeri - İlköğretim Online,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/ilkonline/article/308469",
+    "id": {
+      "$oid": "65e19e1ef57f6991536d0624"
+    },
+    "CikisTarihi": "2017",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/296822"
+  },
+  {
+    "Acıklama": "İşletmeler, optimizasyon problemlerinin çözümünde çeşitli yöntemler kullanırlar. Bu \nyöntemlerden en yaygın kullanılanlarından birisi de doğrusal programlama tekniğidir. Doğrusal …",
+    "Baslık": "[PDF][PDF] Doğrusal programlama problemlerinin excel ile çözümü",
+    "Yazar": "MA Alan, C Yeşilyurt - … Üniversitesi İktisadi ve İdari Bilimler Fakültesi …,  - academia.edu",
+    "Yonlendirme": "https://www.academia.edu/download/33912194/863.pdf",
+    "id": {
+      "$oid": "65e19e1ef57f6991536d0625"
+    },
+    "CikisTarihi": "2004",
+    "Indirme": "https://www.academia.edu/download/33912194/863.pdf"
+  },
+  {
+    "Acıklama": "… programlama eğitimi alan bireyler ile daha önceden formalveya informal olarak programlama \n… Programlama eğitiminde alışılagelmiş eğitim yöntemlerine alternatif olarakkullanılabilecek …",
+    "Baslık": "Çokluortamın bilgisayar programlama başarısı üzerine etkisi",
+    "Yazar": "K Gültekin -  - acikbilim.yok.gov.tr",
+    "Yonlendirme": "https://acikbilim.yok.gov.tr/handle/20.500.12812/480778",
+    "id": {
+      "$oid": "65e19e1ef57f6991536d0626"
+    },
+    "CikisTarihi": "2006",
+    "Indirme": "https://acikbilim.yok.gov.tr/bitstream/handle/20.500.12812/480778/yokAcikBilim_156885.pdf?sequence=-1"
+  },
+  {
+    "Acıklama": "… programlama modeli geliştirmiştir. Fırat ve Hurkens [21] yaptıkları çalışmada karışık tamsayılı \nprogramlama ile farklı yetenek isteyen işlere uygun yetenekli teknisyenleri atamışlardır. …",
+    "Baslık": "Hedef programlama ile nöbet çizelgeleme probleminin çözümü",
+    "Yazar": "T Eren, FM ÜNAL - Academic Platform-Journal of Engineering and …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/apjes/issue/27264/287017",
+    "id": {
+      "$oid": "65e19e1ef57f6991536d0627"
+    },
+    "CikisTarihi": "2016",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/269899"
+  },
+  {
+    "Acıklama": "… bir hafta boyunca robotlarla programlama eğitimi verilmiştir. Programlama eğitimi sonunda \n… güdüleyici, eğlenceli ve programlama öğrenmelerine katkı sağladığı sonucuna ulaşılmıştır. …",
+    "Baslık": "Robotlarla programlama eğitimi: öğrencilerin deneyimlerinin ve görüşlerinin incelenmesi",
+    "Yazar": "S Çankaya, G Durak, E Yünkül -  - dspace.balikesir.edu.tr",
+    "Yonlendirme": "https://dspace.balikesir.edu.tr/xmlui/handle/20.500.12462/3587",
+    "id": {
+      "$oid": "65e19e1ef57f6991536d0628"
+    },
+    "CikisTarihi": "2017",
+    "Indirme": "https://dspace.balikesir.edu.tr:8443/xmlui/bitstream/handle/20.500.12462/3587/serkan-cankaya.pdf?sequence=1&isAllowed=y"
+  },
+  {
+    "Acıklama": "Bu çalışmanın amacı, ortaokul düzeyinde görsel programlama etkinliklerinin öğrencilerin \nbilgi-işlemsel düşünme becerileri üzerindeki etkisini ve öğrencilerin bu sürece ilişkin …",
+    "Baslık": "Görsel programlama etkinliklerinin ortaokul öğrencilerinin bilgi-işlemsel düşünme becerilerine etkisi",
+    "Yazar": "NA USLU - Ege Eğitim Teknolojileri Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/eetd/issue/38495/410699",
+    "id": {
+      "$oid": "65e19e1ef57f6991536d0629"
+    },
+    "CikisTarihi": "2018",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/511326"
+  },
+  {
+    "Acıklama": "… programlama yöntemi kullanılarak portföy seçim modelinin uygulamaları yapılmıştır. Çalışmanın \nilk aşamasında karesel programlama … standart karesel programlama modeli kullanılarak …",
+    "Baslık": "[PDF][PDF] Karesel programlama ile portföy optimizasyonu",
+    "Yazar": "M Atan - VII. Ulusal Ekonometri ve İstatistik Sempozyumu …,  - websitem.karatekin.edu.tr",
+    "Yonlendirme": "http://websitem.karatekin.edu.tr/user_files/mercanhatipoglu/files/karesel_programlama_ile_portfoy_optimiza.pdf",
+    "id": {
+      "$oid": "65e19e21f57f6991536d062a"
+    },
+    "CikisTarihi": "2005",
+    "Indirme": "http://websitem.karatekin.edu.tr/user_files/mercanhatipoglu/files/karesel_programlama_ile_portfoy_optimiza.pdf"
+  },
+  {
+    "Acıklama": "… programlama … programlama öğretiminde karşılaşılan genel zorluklar, öğrencilerin öğrenirken \nkarşılaştıkları güçlükler, hangi konuların öğretiminde zorluklar yaşandığını ve programlama …",
+    "Baslık": "[PDF][PDF] Programlama öğretiminde karşılaşılan zorluklara yönelik öğretmen görüşleri ve çözüm önerileri",
+    "Yazar": "H Cevahir, M Özdemir - Uluslararası Bilgisayar ve Öğretim …,  - academia.edu",
+    "Yonlendirme": "https://www.academia.edu/download/56012913/Programlama_Ogretiminde_Karsilasilan_Zorluklar.pdf",
+    "id": {
+      "$oid": "65e19e21f57f6991536d062b"
+    },
+    "CikisTarihi": "2017",
+    "Indirme": "https://www.academia.edu/download/56012913/Programlama_Ogretiminde_Karsilasilan_Zorluklar.pdf"
+  },
+  {
+    "Acıklama": "Bu çalışmada programlama öğretiminde eğitsel bir programlama ortamı olan Scratch aracı \nkullanımına ilişkin Bilişim Teknolojileri (BT) öğretmen adaylarının algıları incelenmiştir. …",
+    "Baslık": "Bilişim teknolojileri öğretmen adaylarının programlama öğretiminde Scratch aracının kullanımına ilişkin algıları",
+    "Yazar": "E YUKSELTURK, S ALTIOK - Mersin Üniversitesi Eğitim Fakültesi …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/mersinefd/issue/17399/181969?publisher=mersin-university",
+    "id": {
+      "$oid": "65e19e21f57f6991536d062c"
+    },
+    "CikisTarihi": "2016",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/161125"
+  },
+  {
+    "Acıklama": "… tasarlanmaları gerekmektedir ve hakim programlama paradigması olanimperatif dillerle bu \niş … parelel programlama modelleri veteknikleri incelenmiş ve bazı fonksiyonel programlama …",
+    "Baslık": "Fonksiyonel programlama dilleri ile paralel programlama",
+    "Yazar": "A SAYAR, U ERGÜN - Niğde Ömer Halisdemir Üniversitesi …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/ngumuh/issue/22340/239365",
+    "id": {
+      "$oid": "65e19e21f57f6991536d062d"
+    },
+    "CikisTarihi": "2014",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/207831"
+  },
+  {
+    "Acıklama": "lektronik alanında C dili vazgeçilmez bir yer edinmiştir. C dili hem insan diline olan yakınlığı \nhem de makine diline daha az kayıpla çevrilebilme özelliği sayesinde elektronik ürünler ve …",
+    "Baslık": "[KİTAP][B] CCS C ile PIC programlama",
+    "Yazar": "S Çiçek -  - acikerisim.nevsehir.edu.tr",
+    "Yonlendirme": "http://acikerisim.nevsehir.edu.tr/handle/20.500.11787/1312",
+    "id": {
+      "$oid": "65e19e21f57f6991536d062e"
+    },
+    "CikisTarihi": "2007",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… programlama ile portföy seçim modelinin İMKB 30 endeksinde yer alan hisse senetleri \nüzerinde uygulamaları yapılmıştır. Öncelikle kuadratik programlama … kuadratik programlama …",
+    "Baslık": "Markowitz karesel programlama ile portföy seçimi: İMKB 30 endeksinde riskli portföylerin seçimi",
+    "Yazar": "A Ramazan - Çukurova Üniversitesi Sosyal Bilimler Enstitüsü …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/cusosbil/issue/4393/60454",
+    "id": {
+      "$oid": "65e19e21f57f6991536d062f"
+    },
+    "CikisTarihi": "2013",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/50856"
+  },
+  {
+    "Acıklama": "… düşünme becerileri ile programlama dilleri başarısı arasındaki … analitik düşünme ile \nprogramlama başarısı arasında pozitif … düşünme iken bağımlı değişken programlama başarısı …",
+    "Baslık": "[PDF][PDF] Öğrencilerin mantiksal ve analitik düşünme becerilerinin programlama dilleri başarisina etkisi",
+    "Yazar": "Ö Sebetci, G Aksu - BAŞ EDİTÖR,  - ebuline.com",
+    "Yonlendirme": "http://ebuline.com/pdfs/25Sayi/25.pdf#page=73",
+    "id": {
+      "$oid": "65e19e21f57f6991536d0630"
+    },
+    "CikisTarihi": "2014",
+    "Indirme": "http://ebuline.com/pdfs/25Sayi/25.pdf#page=73"
+  },
+  {
+    "Acıklama": "Doğayı koruma ve kirlenmesini önleme çabalarının en etkili yolu, yeni-lenemeyen kaynaklardan \ntasarruf etmektir. Atıkların hem üretim miktarını hem de ekonomik maliyetini azaltmak …",
+    "Baslık": "Erzurum kenti ambalaj atiklarinin geri dönüşümü için tersine lojistik aği tasarimi ve bir karma tamsayili programlama modeli",
+    "Yazar": "S Kaçtioğlu, Ü Şengül - Atatürk Üniversitesi İktisadi ve İdari Bilimler …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/atauniiibd/issue/2698/35571",
+    "id": {
+      "$oid": "65e19e21f57f6991536d0631"
+    },
+    "CikisTarihi": "2011",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/30284"
+  },
+  {
+    "Acıklama": "… ile eğitimin öğrencilerin Scratch programlama öğrenmelerinde ve bilgi … programlama \nöğretiminin bu yeterliklerin artmasında önemli bir etken olduğunu söylenebilir. Ayrıca programlama …",
+    "Baslık": "Blok tabanlı ortamlarda programlama öğretimi sürecinde farklı öğretim stratejilerinin çeşitli değişkenler açısından incelenmesi",
+    "Yazar": "E Erdem -  - acikerisim.baskent.edu.tr",
+    "Yonlendirme": "http://acikerisim.baskent.edu.tr:8080/handle/11727/2903",
+    "id": {
+      "$oid": "65e19e24f57f6991536d0632"
+    },
+    "CikisTarihi": "2018",
+    "Indirme": "http://acikerisim.baskent.edu.tr:8080/bitstream/handle/11727/2903/Ecmen%20ERDEM.pdf?sequence=1&isAllowed=y"
+  },
+  {
+    "Acıklama": "The aim of this study is to determine the problems effecting programming process of \npreservice information technology teachers and the reasons of these problems by monitoring …",
+    "Baslık": "Bilişim Teknolojileri Öğretmeni Adaylarının Programlama Sürecini Etkileyen Faktörler.",
+    "Yazar": "F ÖZDİNÇ, A ALTUN - Ilkogretim Online,  - search.ebscohost.com",
+    "Yonlendirme": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=13053515&AN=99807146&h=ZzU7shxo3jWI90p2x7XOC3w%2BcEaykVi9s2LgD3JPG%2FHeYq%2FaAkT9o0fNMPo2Wjhog7QRQQf396JIrR2usUbAZA%3D%3D&crl=c",
+    "id": {
+      "$oid": "65e19e24f57f6991536d0633"
+    },
+    "CikisTarihi": "2014",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… Deÿişken isimlerinin nelerden oluş ması gerektiÿi hakkında genel bilgi için ser inin ilk k \nitabında [Verita banı Programlama I, s .15, Temmuz 2003] bulabilirsiniz. Seride yer alması ne …",
+    "Baslık": "[KİTAP][B] Veritabanı programlama 1",
+    "Yazar": "Y Gözüdeli -  - uygulama.hasanozalp.com.tr",
+    "Yonlendirme": "http://uygulama.hasanozalp.com.tr/explorer/snf1/veri_tabani_II/Veri.Tabani.Programlama.sql2.pdf",
+    "id": {
+      "$oid": "65e19e24f57f6991536d0634"
+    },
+    "CikisTarihi": "2003",
+    "Indirme": "http://uygulama.hasanozalp.com.tr/explorer/snf1/veri_tabani_II/Veri.Tabani.Programlama.sql2.pdf"
+  },
+  {
+    "Acıklama": "… yeni platformların en popülerlerinden biri R programlama dili. R programlama dili, her türlü \n… uygulamaları, fonksiyonel ve nesneye dayalı programlama, ağ teorisi, yapay öğrenme ve …",
+    "Baslık": "[KİTAP][B] R ile istatistiksel programlama",
+    "Yazar": "İ Arslan -  - books.google.com",
+    "Yonlendirme": "https://books.google.com/books?hl=tr&lr=&id=fxbTDwAAQBAJ&oi=fnd&pg=PA117&dq=programlama&ots=g9ugVD6f7K&sig=xy5AgQhKJygDD-hhJvravoyYvUk",
+    "id": {
+      "$oid": "65e19e24f57f6991536d0635"
+    },
+    "CikisTarihi": "2015",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… programlama becerilerini geliştirmek ve bu sürece öğrencileri daha erken yaşta başlatarak \nprogramlama … programlama derslerini ilk kez dâhil etmektedirler. Ayrıca ülkeler arasında …",
+    "Baslık": "[PDF][PDF] İlköğretim düzeyinde programlama eğitimi: Yurt dışı ve yurt içi perspektifinden bir bakış",
+    "Yazar": "Ş Saygıner, H Tüzün - Akademik Bilişim Konferansı,  - ab.org.tr",
+    "Yonlendirme": "https://ab.org.tr/ab17/bildiri/211.pdf",
+    "id": {
+      "$oid": "65e19e24f57f6991536d0636"
+    },
+    "CikisTarihi": "2017",
+    "Indirme": "https://ab.org.tr/ab17/bildiri/211.pdf"
+  },
+  {
+    "Acıklama": "… Öte yandan fizik dersinin anlaşılması zor bir ders olduğu yaygın bir kanıdır (5). Dolayısıyla \nfizik ders kitaplarında da anlaşılması zor konuların yer alması doğaldır. Bu nedenle fizik ders …",
+    "Baslık": "LİSE FİZİK I DERS KİTABININ OKUNABİLİRLİĞİ VE HEDEF YAŞ DÜZEYİNE UYGUNLUĞU",
+    "Yazar": "A TEKBIYIK - Kastamonu Eğitim Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/kefdergi/issue/49104/626619",
+    "id": {
+      "$oid": "65e19e26f57f6991536d0637"
+    },
+    "CikisTarihi": "2006",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/819121"
+  },
+  {
+    "Acıklama": "… Halbuki fizik dersi görsel olaylarla o kadar içli dışlıdır ki, öğrencilere fizik kanunlarını ve \nfiziksel kavramları görsel hale getirerek anlatmak hiç de zor değildir. Bu anlamda fizik …",
+    "Baslık": "[PDF][PDF] Fizik eğitiminde sanal laboratuar, geleneksel laboratuarın yerini tutabilir mi",
+    "Yazar": "E Bozkurt, A Sarıkoç - Selçuk Üniversitesi Ahmet Keleşoğlu Eğitim …,  - academia.edu",
+    "Yonlendirme": "https://www.academia.edu/download/3458672/25_06_EFD-2008-014.pdf",
+    "id": {
+      "$oid": "65e19e26f57f6991536d0638"
+    },
+    "CikisTarihi": "2008",
+    "Indirme": "https://www.academia.edu/download/3458672/25_06_EFD-2008-014.pdf"
+  },
+  {
+    "Acıklama": "Maqolada polimer matritsalar va keramik plomba moddalari asosida kompozit materiallarning \nyuqori texnologiyali texnologiyalarini ishlab chiqish ularni tiklash stomatologiyasi …",
+    "Baslık": "STOMATOLOGIK MATERIALLARNING FIZIK-MEXANIK XOSSALARI",
+    "Yazar": "MX Boboqulova - Educational Research in Universal Sciences,  - erus.uz",
+    "Yonlendirme": "http://erus.uz/index.php/er/article/view/3896",
+    "id": {
+      "$oid": "65e19e26f57f6991536d0639"
+    },
+    "CikisTarihi": "2023",
+    "Indirme": "http://erus.uz/index.php/er/article/view/3896/4730"
+  },
+  {
+    "Acıklama": "Problem çözme, öğrenme sürecinin en önemli basamaklarından biridir. Problem çözme \nsürecinde başarılı olmanın en iyi yollarından biri ise, problem çözme stratejilerini etkili bir …",
+    "Baslık": "[PDF][PDF] FİZİK ÖGRETMEN ADAYLARININ PROBLEM ÇÖZME DAVRANIŞLARININ DEĞERLENDİRİLMESİ",
+    "Yazar": "S ÇALIŞKAN, GS SEZGİN… - Hacettepe …,  - efdergi.hacettepe.edu.tr",
+    "Yonlendirme": "http://efdergi.hacettepe.edu.tr/yonetim/icerik/makaleler/727-published.pdf",
+    "id": {
+      "$oid": "65e19e26f57f6991536d063a"
+    },
+    "CikisTarihi": "2006",
+    "Indirme": "http://efdergi.hacettepe.edu.tr/yonetim/icerik/makaleler/727-published.pdf"
+  },
+  {
+    "Acıklama": "Gipsli quruq qurilish qorishmalarini ishlab chiqarishda ashyoning sifat ko ‘rsatkichlariga ta’sir \nqiluvchi eng asosiy mahsulot, bu-kimyoviy qo ‘shimchalardir. Odatda, gipsning qotish …",
+    "Baslık": "SUPERPLASTIFIKATOR QO'SHILGAN GIPSOBETONNING FIZIK-MEXANIK XOSSALARI",
+    "Yazar": "II Umarov, D Nuritdinov - Journal of new century innovations,  - newjournal.org",
+    "Yonlendirme": "http://newjournal.org/index.php/new/article/view/9973",
+    "id": {
+      "$oid": "65e19e26f57f6991536d063b"
+    },
+    "CikisTarihi": "2023",
+    "Indirme": "https://newjournal.org/index.php/new/article/download/9973/9659"
+  },
+  {
+    "Acıklama": "Hızla gelişen bilim ve teknoloji, eğitim-öğretim alanında da yeni araç, gereç ve donanımların \nkullanılmasına olanak sağlamıştır. Bunların başında kuşkusuz bilgisayarlar en önde gelir. …",
+    "Baslık": "Fizik öğretiminde bilgisayar destekli yeni yaklaşımlar",
+    "Yazar": "Aİ ŞEN - Gazi Üniversitesi Gazi Eğitim Fakültesi Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/gefad/issue/6767/91055",
+    "id": {
+      "$oid": "65e19e26f57f6991536d063c"
+    },
+    "CikisTarihi": "2001",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/77458"
+  },
+  {
+    "Acıklama": "Bu çalışmanın amacı lise fizik öğretmenlerinin … 100 fizik öğretmeni oluşturmaktadır. Veriler, \nöğretmene yöneltilen anket sorunlarına verilen yanıtlar ile elde edilmiştir. Görüşleri alınan fizik …",
+    "Baslık": "Fizik öğretmenlerinin hizmet içi eğitimler üzerine görüşlerinin",
+    "Yazar": "S Gönen, S Kocakaya - Pamukkale Üniversitesi Eğitim Fakültesi …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/pauefd/issue/11124/133036",
+    "id": {
+      "$oid": "65e19e26f57f6991536d063d"
+    },
+    "CikisTarihi": "2006",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/114742"
+  },
+  {
+    "Acıklama": "… geterogen fazali muvozanat / eruvchanlik diagrammasi / fizik-kimyoviy xossalar / \nkristallanish. … Tayanch so'z va iboralar: geterogen fazali muvozanat, eruvchanlik …",
+    "Baslık": "Defoliant olish jarayonini fizik kimyoviy asoslari",
+    "Yazar": "O Xakimov, AS Xasanov - Scientific progress,  - cyberleninka.ru",
+    "Yonlendirme": "https://cyberleninka.ru/article/n/defoliant-olish-jarayonini-fizik-kimyoviy-asoslari",
+    "id": {
+      "$oid": "65e19e26f57f6991536d063e"
+    },
+    "CikisTarihi": "2022",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "Yurtimizda elektr hamda gaz ta’minoti tizimini izchil modernizatsiya qilish, texnologik qayta \njihozlash, yetkazib berilgan elektr energiyasi va tabiiy gaz uchun hisob-kitoblar …",
+    "Baslık": "ISSIQLIK IZOLYATSIYA MATERIALLARINI FIZIK XOSSALARINI ANIQLASH",
+    "Yazar": "SB Xolmatjon o'g'li… - Journal of new century …,  - newjournal.org",
+    "Yonlendirme": "http://newjournal.org/index.php/new/article/view/9984",
+    "id": {
+      "$oid": "65e19e26f57f6991536d063f"
+    },
+    "CikisTarihi": "2023",
+    "Indirme": "http://newjournal.org/index.php/new/article/download/9984/9670"
+  },
+  {
+    "Acıklama": "… amacı yenilenen fizik öğretim programının ardından ortaöğretim öğrencilerinin fiziğe, fizik \nile ilgili … Taslak ölçeğin geliştirme aşamasında mevcut tutum ölçekleri ve ilgili fizik programı …",
+    "Baslık": "Fizik tutum ölçeği: Geliştirilmesi, geçerliliği ve güvenilirliği",
+    "Yazar": "N YİĞİT, M altan KURNAZ - Necatibey Eğitim Fakültesi Elektronik …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/balikesirnef/issue/3370/46517",
+    "id": {
+      "$oid": "65e19e26f57f6991536d0640"
+    },
+    "CikisTarihi": "2010",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/39794"
+  },
+  {
+    "Acıklama": "Çağımızın ihtiyaçları doğrultusunda geliştirilen yeni lise fizik dersi öğretim programında \nyıldız ve yıldızsılar konusuna yer verilmiştir. Programa henüz dahil edilmiş bu konu hakkında …",
+    "Baslık": "Fizik öğretmen adaylarının yıldız kavramına dair zihinsel modelleri",
+    "Yazar": "AS Arslan, Ü İYİBİL, U IYIBIL… - Necatibey Eğitim Fakültesi …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/balikesirnef/issue/3371/46525",
+    "id": {
+      "$oid": "65e19e27f57f6991536d0641"
+    },
+    "CikisTarihi": "2010",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/39802"
+  },
+  {
+    "Acıklama": "Bu araştırmanın amacı fizik öğretmen adaylarının öğrenme yaklaşımlarını belirlemek, bu \ndeğişkenin öğrencilerin cinsiyeti, sınıf düzeyi, akademik başarıları ile ilişkilerini ortaya koymaktır…",
+    "Baslık": "Fizik Öğretmen Adaylarının Öğrenme Yaklaşımlarının",
+    "Yazar": "GS SELÇUK, S Çalişkan, E Mustafa - Gazi Üniversitesi Gazi Eğitim …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/gefad/issue/6750/90767",
+    "id": {
+      "$oid": "65e19e2bf57f6991536d0642"
+    },
+    "CikisTarihi": "2007",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/77170"
+  },
+  {
+    "Acıklama": "… gören öğretmen adaylarının fizik laboratuvarına yönelik tutumlarını … 5’li likert türünde olan \nölçek ile, öğretmen adaylarından fizik … fizik laboratuvarına yönelik tutumları değerlendirilmiştir. …",
+    "Baslık": "FİZİK LABORATUVARINA YÖNELİK BİR TUTUM ÖLÇEĞİNİN GELİŞTİRİLMESİ VE ÖĞRETMEN ADAYLARININ FİZİK LABORATUVARINA YÖNELİK TUTUMLARININ …",
+    "Yazar": "H NUHOĞLU, N YALÇIN - Ahi Evran Üniversitesi Kırşehir Eğitim …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/kefad/issue/57226/808307",
+    "id": {
+      "$oid": "65e19e2bf57f6991536d0643"
+    },
+    "CikisTarihi": "2004",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1337007"
+  },
+  {
+    "Acıklama": "Kavram haritası öğretme ve öğrenme yöntemlerinden biridir. Bu çalışmada kavram haritaları, \nbir değerlendirme aracı olarak kullanılmıştır. Önce 73 fizik öğretmen adayından impuls ve …",
+    "Baslık": "[PDF][PDF] Kavram haritalarının değerlendirme aracı olarak fizik eğitiminde kullanılması",
+    "Yazar": "ŞK İNGEÇ - Hacettepe Üniversitesi Eğitim Fakültesi Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/download/article-file/87579",
+    "id": {
+      "$oid": "65e19e2bf57f6991536d0644"
+    },
+    "CikisTarihi": "2008",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/87579"
+  },
+  {
+    "Acıklama": "Bu çalışmanın amacı, elektrik devrelerine yönelik olarak geliştirilen logo destekli programın \nçalışma yaprağı ile yapılan uygulamalarının öğrencilerin başarı ve tutumları üzerine etkisini …",
+    "Baslık": "Fizik öğretiminde bilgisayar destekli etkinliklerin öğrenci kazanımları üzerine etkisi elektrik devreleri örneği",
+    "Yazar": "N Yiğit, AR Akdeniz - Gazi Üniversitesi Gazi Eğitim Fakültesi Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/gefad/issue/6761/90950",
+    "id": {
+      "$oid": "65e19e2bf57f6991536d0645"
+    },
+    "CikisTarihi": "2003",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/77353"
+  },
+  {
+    "Acıklama": "… Haftalık 2 ders saati süresince işlenen Fizik dersinde uygulamalar öncesi, deney \ngrubundaki öğrenciler beş ve altı kişilik gruplara ayrılmıştır. Yatılı okulda öğrenim gören askeri …",
+    "Baslık": "Fizik eğitiminde 5E modelinin öğrencilerin akademik başarısına etkisinin incelenmesi",
+    "Yazar": "İ Ergin, U KANLI, TAN Mustafa - Gazi Üniversitesi Gazi Eğitim …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/gefad/issue/6750/90758",
+    "id": {
+      "$oid": "65e19e2bf57f6991536d0646"
+    },
+    "CikisTarihi": "2007",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/77161"
+  },
+  {
+    "Acıklama": "Bu araştırma, ortaöğretimde görev yapan fizik öğretmenlerinin … Fizik öğretmenlerinin eleştirel \ndüşünme eğilimleri düzeyini … CCTDI-T uygulanan 20 fizik öğretmenininsınıfta düzenledikleri …",
+    "Baslık": "Fizik öğretmenlerinin eleştirel düşünme eğilimi düzeyleri ve düzenledikleri etkinliklerde eleştirel düşünmenin yeri",
+    "Yazar": "C Şengül -  - acikbilim.yok.gov.tr",
+    "Yonlendirme": "https://acikbilim.yok.gov.tr/handle/20.500.12812/468414",
+    "id": {
+      "$oid": "65e19e2bf57f6991536d0647"
+    },
+    "CikisTarihi": "2007",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "“Kimyoviy va mineral qo’shimchalar yordamida yuqori mustahkam betonning fizik-mexanik \nxossalarini tadqiq etish”, kimyoviy va mineral qo’shimchalar tarkibi hamda yuqori mustahkam …",
+    "Baslık": "YUQORI MUSTAHKAM BETONLAR OLISHDA KIMYOVIY VA MINERAL QO'SHIMCHALAR YORDAMIDA FIZIK-MEXANIK XOSSALLARINI TADQIQ ETISH",
+    "Yazar": "Y Istamov, OB O'roqboyev - Journal of Integrated Education and …,  - ojs.rmasav.com",
+    "Yonlendirme": "https://ojs.rmasav.com/index.php/ojs/article/view/53",
+    "id": {
+      "$oid": "65e19e2bf57f6991536d0648"
+    },
+    "CikisTarihi": "2022",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… merkezindeki bankalarda çalışanların fizik aktivite düzeylerini saptamaktı. … Sosyodemografik \nözellikler ile fizik aktivite ve bazı kronik … ve medyaya, düzenli fizik aktivitenin sağlığa yararları …",
+    "Baslık": "Malatya Kent Merkezindeki Banka Çalışanlarında Fizik Aktivite Sıklığı+",
+    "Yazar": "M Genç, M Eğri, MA Kurçer, M Kaya, E Pehlivan… -  - abakus.inonu.edu.tr",
+    "Yonlendirme": "http://abakus.inonu.edu.tr/xmlui/handle/11616/1928",
+    "id": {
+      "$oid": "65e19e2cf57f6991536d0649"
+    },
+    "CikisTarihi": "2002",
+    "Indirme": "http://abakus.inonu.edu.tr/xmlui/bitstream/handle/11616/1928/2002_9_4_3.pdf?sequence=1&isAllowed=y"
+  },
+  {
+    "Acıklama": "… Bu çalışma ile liselerde görev yapan Fizik … 36 Fizik öğretmeni oluşturmaktadır. Veriler; \nanket, mülakât ve gözlem yöntemleriyle toplanmıştır. Elde edilen verilere dayalı olarak, Fizik …",
+    "Baslık": "FİZİK ÖĞRETMENLERİNİN LABORATUVARLARA YÖNELİK HİZMET İÇİ İHTİYAÇLARININ BELİRLENMESİ",
+    "Yazar": "S ÇEPNİ, K Ali, M KÜÇÜK - Türk Eğitim Bilimleri Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/tebd/issue/26124/275193",
+    "id": {
+      "$oid": "65e19e2cf57f6991536d064a"
+    },
+    "CikisTarihi": "2005",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/256397"
+  },
+  {
+    "Acıklama": "… fizik eğitimi bölümü programları incelendiğinde, ağırlığın fizik ve … , fizik öğretmen adaylarının \norta dereceli okullarda fizik eğitimi ve … Bu alana katkıda bulunmak, ve fizik eğitimi-öğretimi sü…",
+    "Baslık": "[PDF][PDF] Fizik öğretmenlerinin yetiştirilmesinde yeni bir yaklaşım",
+    "Yazar": "S Çepni, AR AKDENİZ - Hacettepe Üniversitesi Eğitim …,  - efdergi.hacettepe.edu.tr",
+    "Yonlendirme": "http://www.efdergi.hacettepe.edu.tr/yonetim/icerik/makaleler/1300-published.pdf",
+    "id": {
+      "$oid": "65e19e2cf57f6991536d064b"
+    },
+    "CikisTarihi": "1996",
+    "Indirme": "http://www.efdergi.hacettepe.edu.tr/yonetim/icerik/makaleler/1300-published.pdf"
+  },
+  {
+    "Acıklama": "Alternatif ölçme değerlendirme yöntemlerinin öğretim koşulları ile sözkonusu yöntemlerin \nöğretmen adayları tarafından öğrenilme durumlarını tespit etmeyi amaçlayan bu çalışma 2006-…",
+    "Baslık": "FİZİK ÖĞRETMEN ADAYLARININ ALTERNATİF ÖLÇME-DEĞERLENDİRME YÖNTEMLERİNİ ALGILAMA DÜZEYLERİ",
+    "Yazar": "A SAĞLAM, A Nefise, Ü İYİBİL - Dicle Üniversitesi Ziya Gökalp …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/zgefd/issue/47957/606772",
+    "id": {
+      "$oid": "65e19e2cf57f6991536d064c"
+    },
+    "CikisTarihi": "2008",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/787158"
+  },
+  {
+    "Acıklama": "Bu çalışmada,‘Basit Harmonik Hareket’konusuna ilişkin fen bilgisi öğretmen adaylarının \nkavramsal öğrenmeleri üzerindeki etkisini belirlemek ve bu konunun öğretiminde, Interactive-…",
+    "Baslık": "[PDF][PDF] Bilgisayar destekli fizik etkinliklerinin öğrenci kazanimlarina etkisi: basit harmonik hareket örneği",
+    "Yazar": "O Karamustafaoğlu, M Aydin, FEF KTÜ, TH ÖZMEN - TURKISH ONLINE,  - tojet.net",
+    "Yonlendirme": "http://tojet.net/volumes/v4i4.pdf#page=67",
+    "id": {
+      "$oid": "65e19e2cf57f6991536d064d"
+    },
+    "CikisTarihi": "2002",
+    "Indirme": "http://tojet.net/volumes/v4i4.pdf#page=67"
+  },
+  {
+    "Acıklama": "ÖZET Temel Fizik Laboratuar uygulamalarının verimli … yürütülmekte olan Temel Fizik Laboratuar \ndeney uygulamaları … , ikinci ve üçüncü uygulamalarda fizik öğretmen adaylarının rehber …",
+    "Baslık": "Yükseköğretim temel fizik laboratuvar uygulamalarında bütünleştirici yaklaşım",
+    "Yazar": "M Yeşilyurt -  - acikbilim.yok.gov.tr",
+    "Yonlendirme": "https://acikbilim.yok.gov.tr/handle/20.500.12812/484702",
+    "id": {
+      "$oid": "65e19e2cf57f6991536d064e"
+    },
+    "CikisTarihi": "2003",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… Bu günkü anlamda \"fizik\" terimi oldukça yeni bir terimdir ve ne Antik Yunan Dünyası 'nda ne \n… bugünkü fizik bilimine karşılık gelen bağımsız bir disiplin yoktu. Bu nedenle, fizik alanındaki …",
+    "Baslık": "ARİSTOTELES'İN DOĞA-FİZİK-FELSEFESÎ",
+    "Yazar": "HG Topdemir - Felsefe dünyası,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/felsefedunyasi/issue/63939/967681",
+    "id": {
+      "$oid": "65e19e2ef57f6991536d064f"
+    },
+    "CikisTarihi": "2004",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1870239"
+  },
+  {
+    "Acıklama": "… yılında görev yapan 60 fizik öğretmeni ve fizik dersi alan 180 … Fizik öğretmenleri ve fizik \ndersini alan öğrencilerle yürütülen … fizik dersinin zor bir ders olarak ifade edilmesinin nedenleri, …",
+    "Baslık": "Fizik öğretimi sürecinde yaşanan sorunların değerlendirilmesine yönelik bir çalışma",
+    "Yazar": "HŞ AYVACI, G BEBEK - Kastamonu Eğitim Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/kefdergi/article/375680",
+    "id": {
+      "$oid": "65e19e2ef57f6991536d0650"
+    },
+    "CikisTarihi": "2018",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/400041"
+  },
+  {
+    "Acıklama": "Ushbu maqolada ko'p komponentli sement ishlab chiqarishda uning iqtisodiy samaradorligini, \nsanoat chiqindisi va aktiv mineral moddalar asosida olingan ko’p komponentli …",
+    "Baslık": "SANOAT CHIQINDISI VA MINERAL QO'SHIMCHALAR ASOSIDA OLINGAN SEMENTLARNING FIZIK-MEXANIK XOSSALARINI O'RGANISH",
+    "Yazar": "I Yusuf, BA Tursunov - Journal of Integrated Education and …,  - ojs.rmasav.com",
+    "Yonlendirme": "https://ojs.rmasav.com/index.php/ojs/article/view/55",
+    "id": {
+      "$oid": "65e19e2ef57f6991536d0651"
+    },
+    "CikisTarihi": "2022",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… fizik dersinde toplam 39 öğrenci tarafından basit malzemelerle, gerçek yaşamla çeşitli bağlamlar \nkurularak oluşturulan etkinliklerin, fizik … yapılan etkinliklerin fizik kavramlarını daha açık, …",
+    "Baslık": "Bağlam temelli öğrenme yaklaşımına uygun etkinliklerin öğrencilerin fizik konularını anlamasına ve fizik dersine karşı tutumuna etkisi/the effects of hands on activities …",
+    "Yazar": "N HIRÇA - Mustafa Kemal Üniversitesi Sosyal Bilimler Enstitüsü …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/mkusbed/issue/19553/208298",
+    "id": {
+      "$oid": "65e19e2ef57f6991536d0652"
+    },
+    "CikisTarihi": "2012",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/182975"
+  },
+  {
+    "Acıklama": "… görev yapan fizik öğretmenleridir. … 80 fizik öğretmenine uygulanmıştır. Anket, Milli Eğitim \nbakanlığına bağlı özel ve resmi kurumlarda dönem başı fizik zümre toplantılarına katılan fizik …",
+    "Baslık": "Fizik öğretmenlerinin fizik eğitiminde karşılaştığı sorunlar: afyonkarahisar örneği/problems of physics teachers in physics education: afyonkarahisar sample",
+    "Yazar": "Y Karakuyu - Mustafa Kemal Üniversitesi Sosyal Bilimler Enstitüsü …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/mkusbed/issue/19559/208516",
+    "id": {
+      "$oid": "65e19e2ef57f6991536d0653"
+    },
+    "CikisTarihi": "2008",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/183174"
+  },
+  {
+    "Acıklama": "Eğitim literatürümüzde hizmet içi eğitimle ilgili yürütülen bir çok araştırmanın sonuçları MEB \ntarafından fen ve fizik öğretmenleri için yeterli sayıda ve etkili hizmet içi eğitim kurslarının …",
+    "Baslık": "[PDF][PDF] Fizik Ögretmenleri için Üniversite Destekli bir Hizmet içi Egitim Model Önerisi",
+    "Yazar": "K Ali, S Çepni, M Küçük - TOJET: The Turkish Online Journal of …,  - tojet.net",
+    "Yonlendirme": "http://www.tojet.net/articles/v3i1/3115.pdf",
+    "id": {
+      "$oid": "65e19e2ef57f6991536d0654"
+    },
+    "CikisTarihi": "2004",
+    "Indirme": "http://www.tojet.net/articles/v3i1/3115.pdf"
+  },
+  {
+    "Acıklama": "… Trabzon bölgesinde ve özel dershanelerde görevli 20 fizik öğretmeniyle ayrıntılı mülakat … \nfizik deneyleri tespit edildi. Bu çalışmanın sonunda 12 orijinal fizik deneyi geliştirilerek fizik …",
+    "Baslık": "Fizik öğretmenlerinin labaratuvar becerileri",
+    "Yazar": "ŞA Değirmençay -  - acikbilim.yok.gov.tr",
+    "Yonlendirme": "https://acikbilim.yok.gov.tr/handle/20.500.12812/485387",
+    "id": {
+      "$oid": "65e19e2ef57f6991536d0655"
+    },
+    "CikisTarihi": "1999",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "Bu çalışmanın amacı Çoklu Zeka Kuramına dayalı öğretim ve geleneksel öğretirnin dokuzuncu \nsınıf öğrencilerinin fizik başarılarına etkisinin saptanmasıdır. Bu amaçla ölçme aracı …",
+    "Baslık": "[PDF][PDF] Çoklu Zekâ Alanlarina Dayali Öğretimin Öğrencilerin Fizik Başarisina Etkisi",
+    "Yazar": "D Gürçay, A Eryilmaz - Hacettepe Üniversitesi Eğitim Fakültesi …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/download/article-file/87747",
+    "id": {
+      "$oid": "65e19e2ef57f6991536d0656"
+    },
+    "CikisTarihi": "2005",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/87747"
+  },
+  {
+    "Acıklama": "… Ölçeği”, fizik dersine yönelik tutumlarına etkisini tespit etmek amacıyla “Fizik Dersi Tutum \nÖlçeği” … Elde edilen sonuçlar, öğrencilerin eleştirel düşünme eğilimleri ve fizik dersine yönelik …",
+    "Baslık": "Okul dışı öğrenme etkinliklerine ve eleştirel düşünmeye dayalı fizik öğretiminin öğrenci tutumlarına etkisi",
+    "Yazar": "HE Kılıç, Aİ Şen - Eğitim ve Bilim,  - egitimvebilim.ted.org.tr",
+    "Yonlendirme": "http://egitimvebilim.ted.org.tr/index.php/EB/article/view/3635",
+    "id": {
+      "$oid": "65e19e2ef57f6991536d0657"
+    },
+    "CikisTarihi": "2014",
+    "Indirme": "http://egitimvebilim.ted.org.tr/index.php/EB/article/download/3635/892"
+  },
+  {
+    "Acıklama": "Bu çalışmada matematik, fizik ve kimya öğretmenlerinin değerlendirme araçları/uygulamaları \nhakkındaki bilgi düzeyleri, yaklaşımları ve bu araçları kullanma alışkanlıkları …",
+    "Baslık": "Fizik, kimya ve matematik öğretmenlerinin değerlendirme araçlarıyla ilgili yaklaşımları ve uygulamaları",
+    "Yazar": "N Nazlıçiçek, F Akarsu - Eğitim ve Bilim,  - egitimvebilim.ted.org.tr",
+    "Yonlendirme": "http://egitimvebilim.ted.org.tr/index.php/EB/article/view/637",
+    "id": {
+      "$oid": "65e19e2ef57f6991536d0658"
+    },
+    "CikisTarihi": "2010",
+    "Indirme": "http://egitimvebilim.ted.org.tr/index.php/EB/article/download/637/108"
+  },
+  {
+    "Acıklama": "İçinde bulunduğumuz ‘’Bilgi çağı’’olarak adlandırılan 21. yüzyıl, beraberinde bilgisayar \nteknolojilerinin hızla geliştiği ve giderek toplumun bütün katmanlarında yaygınlaştığı bir dönemi …",
+    "Baslık": "[PDF][PDF] Bilgisayar ve eğitim",
+    "Yazar": "A İşman - Sakarya Üniversitesi Eğitim Fakültesi Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/download/article-file/115511",
+    "id": {
+      "$oid": "65e19e30f57f6991536d0659"
+    },
+    "CikisTarihi": "2001",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/115511"
+  },
+  {
+    "Acıklama": "… , kendi kendine öğrenme ilkelerinin bilgisayar teknolojisi ile … veya faaliyetlerin bilgisayar \nyoluyla aktarılmasına “Bilgisayar … gibi bir olanağı ancak bilgisayar temelli eğitimde bulabilirsiniz. …",
+    "Baslık": "Bilgisayar destekli eğitim",
+    "Yazar": "AO Engin, R Tösten, MD Kaya - Kafkas Üniversitesi Sosyal Bilimler …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/sbedergi/issue/11254/134502",
+    "id": {
+      "$oid": "65e19e30f57f6991536d065a"
+    },
+    "CikisTarihi": "2010",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/116125"
+  },
+  {
+    "Acıklama": "Öğrencileri, eğitim programlarında önerilen hedef davranışlara, ulaştırabilmek için eğitimcilerin \nöğrencilere yardım etmesi gerekir. Öğrencilerin, eğitici tarafından hazırlanmış eğitim …",
+    "Baslık": "[DOC][DOC] Bilgisayar destekli eğtimi",
+    "Yazar": "N Varol - Türk Cumhuriyetleri ve Asya Pasifik Ülkeleri Uluslar …,  - nurhayatvarol.com",
+    "Yonlendirme": "http://www.nurhayatvarol.com/Dosyalar/Makaleler/kkasyapasifikulkelerisempozyumu_138_145.doc",
+    "id": {
+      "$oid": "65e19e30f57f6991536d065b"
+    },
+    "CikisTarihi": "1997",
+    "Indirme": "http://www.nurhayatvarol.com/Dosyalar/Makaleler/kkasyapasifikulkelerisempozyumu_138_145.doc"
+  },
+  {
+    "Acıklama": "… yapılmış, bilgisayar öğretmen adaylarının \"bilgisayar öğretmenliği öz-yeterlik inançlarını\" \nölçmeye yönelik maddeler oluşturulmuştur. Bilgisayar öğretmenlerinin bilgisayar öğretmenliği …",
+    "Baslık": "[PDF][PDF] Bilgisayar Öğretmenleri için\" Bilgisayar Öğretmenliği Öz-Yeterlik Ölçeği\" Geliştirme Çalişmasi",
+    "Yazar": "B Akkoyunlu, F Orhan, U Aysun - … Eğitim Fakültesi Dergisi,  - efdergi.hacettepe.edu.tr",
+    "Yonlendirme": "http://efdergi.hacettepe.edu.tr/yonetim/icerik/makaleler/756-published.pdf",
+    "id": {
+      "$oid": "65e19e30f57f6991536d065c"
+    },
+    "CikisTarihi": "2005",
+    "Indirme": "http://efdergi.hacettepe.edu.tr/yonetim/icerik/makaleler/756-published.pdf"
+  },
+  {
+    "Acıklama": "… Bilgisayar destekli eğitimin bir uygulaması da eğitsel bilgisayar oyunlarıdır. Eğitsel bilgisayar \noyunları, bilgisayar oyunlarının motive edici ve eğlendirici özelliklerini barındırmaktadır ve …",
+    "Baslık": "[PDF][PDF] Eğitsel bilgisayar oyunlarının öğrencilerin matematik dersine ve eğitsel bilgisayar oyunlarına yönelik tutumlarına etkisi",
+    "Yazar": "S Çankaya, A Karamete - Mersin Üniversitesi Eğitim Fakültesi …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/download/article-file/160949",
+    "id": {
+      "$oid": "65e19e30f57f6991536d065d"
+    },
+    "CikisTarihi": "2008",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/160949"
+  },
+  {
+    "Acıklama": "Araştırmanın amacı, çocukların bilgisayar oyun bağımlılığını ölçebilmek amacıyla geçerli ve \ngüvenilir bir ölçek geliştirmektir. Araştırmanın örneklemini Trabzon ilinde farklı sosyo …",
+    "Baslık": "Çocuklar için bilgisayar oyun bağımlılığı ölçeği",
+    "Yazar": "MB Horzum, T Ayas, ÖB Çakır -  - acikerisim.sakarya.edu.tr",
+    "Yonlendirme": "https://acikerisim.sakarya.edu.tr/handle/20.500.12619/73219",
+    "id": {
+      "$oid": "65e19e30f57f6991536d065e"
+    },
+    "CikisTarihi": "2008",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… Ülkemizde, orta dereceli okullarda, bilgisayar destekli matematik … bunun sonucunda \nöğretmenler acaba bilgisayar yerimizi mi alacak … İşte bu nedenle makalede bilgisayar …",
+    "Baslık": "[PDF][PDF] Matematik ögretiminde bilgisayar herşey midir",
+    "Yazar": "A Baki - Hacettepe Üniversitesi Eğitim Fakültesi Dergisi,  - researchgate.net",
+    "Yonlendirme": "https://www.researchgate.net/profile/Adnan-Baki-2/publication/268176668_MATEMATIK_OGRETIMINDE_BILGISAYAR_HERSEY_MIDIR/links/56698d3908ae62b05f024b5b/MATEMATIK-OeGRETIMINDE-BILGISAYAR-HERSEY-MIDIR.pdf",
+    "id": {
+      "$oid": "65e19e30f57f6991536d065f"
+    },
+    "CikisTarihi": "1996",
+    "Indirme": "https://www.researchgate.net/profile/Adnan-Baki-2/publication/268176668_MATEMATIK_OGRETIMINDE_BILGISAYAR_HERSEY_MIDIR/links/56698d3908ae62b05f024b5b/MATEMATIK-OeGRETIMINDE-BILGISAYAR-HERSEY-MIDIR.pdf"
+  },
+  {
+    "Acıklama": "The purpose of this study was to find out how the teachers use computers in education-if any-and \nhow they perceive the use of computers in education in Turkey. The data for this study …",
+    "Baslık": "[PDF][PDF] Öğretimde bilgisayar kullanımına ilişkin öğretmen görüşleri",
+    "Yazar": "K ÇAĞILTAY, J ÇAKIROĞLU, N ÇAĞILTAY… - Hacettepe …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/download/article-file/87974",
+    "id": {
+      "$oid": "65e19e30f57f6991536d0660"
+    },
+    "CikisTarihi": "2001",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/87974"
+  },
+  {
+    "Acıklama": "Bu çalışmada bilgisayarın eğitimde kullanılması anlatılmıştır. Dünyada bilgisayarın eğitimde \nkullanılması örneklerle anlatılmış bu uygulamaların tarihçesi verilmiştir. Ayrıca Türkiye’de …",
+    "Baslık": "[PDF][PDF] Bilgisayar destekli eğitim ve bilgisayar destekli öğretimin dünyada ve Türkiye'de uygulamaları",
+    "Yazar": "M Mercan, A Filiz, İ Göçer, N Özsoy - Şanlıurfa: Akademik Bilişim,  - ab.org.tr",
+    "Yonlendirme": "https://ab.org.tr/ab09/kitap/mercan_filiz_AB09.pdf",
+    "id": {
+      "$oid": "65e19e30f57f6991536d0661"
+    },
+    "CikisTarihi": "2009",
+    "Indirme": "https://ab.org.tr/ab09/kitap/mercan_filiz_AB09.pdf"
+  },
+  {
+    "Acıklama": "… Ayrıca, bilgisayar öz yeterliliği ve bilgisayar kullanma sıklığı ile bilgisayara yönelik olumlu … \nve kendilerini bilgisayar karşısında rahat hissettiklerini ortaya koymuştur. Daha önce bilgisayar …",
+    "Baslık": "[PDF][PDF] Bilgisayar destekli eğitim yapmaya ilişkin tutum ölçeği",
+    "Yazar": "A Arslan - Yüzüncü yıl üniversitesi eğitim fakültesi …,  - tr-scales.arabpsychology.com",
+    "Yonlendirme": "https://tr-scales.arabpsychology.com/wp-content/uploads/pdf/bilgisayar-destekli-egitim-yapmaya-iliskin-tutum-olcegi-toad.pdf",
+    "id": {
+      "$oid": "65e19e30f57f6991536d0662"
+    },
+    "CikisTarihi": "2006",
+    "Indirme": "https://tr-scales.arabpsychology.com/wp-content/uploads/pdf/bilgisayar-destekli-egitim-yapmaya-iliskin-tutum-olcegi-toad.pdf"
+  },
+  {
+    "Acıklama": "İlk baskısı 2011 yılında yapılan bu kitap alanının Türkiye'de yayınlanan ilk eseri olmuştur. \nÇeşitli üniversitelerin lisans ve yüksek lisans programlarında İnsan Bilgisayar Etkileşimi …",
+    "Baslık": "İnsan bilgisayar etkileşimi ve kullanılabilirlik mühendisliği: Teoriden pratiğe",
+    "Yazar": "K Çağıltay -  - open.metu.edu.tr",
+    "Yonlendirme": "https://open.metu.edu.tr/handle/11511/70368",
+    "id": {
+      "$oid": "65e19e32f57f6991536d0663"
+    },
+    "CikisTarihi": "2018",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "",
+    "Baslık": "[ALINTI][C] Bilgisayar destekli öğretim için bir model önerisi",
+    "Yazar": "H Keser -  - Sosyal Bilimler Enstitüsü",
+    "Yonlendirme": "yönlendirme linki yok",
+    "id": {
+      "$oid": "65e19e32f57f6991536d0664"
+    },
+    "CikisTarihi": "1988",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… kullanılan bu teknolojik araçların en önemlisi bilgisayar olarak görünmektedir. … ilgili olarak \nbilgisayar destekli öğretim materyali geliştirilmiştir. Geliştirilen bilgisayar destekli öğretim …",
+    "Baslık": "Doğru Denklemi Konusunda Geliştirilen Bilgisayar",
+    "Yazar": "T Kutluca, O BİRGİN - Gazi Üniversitesi Gazi Eğitim Fakültesi …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/gefad/issue/6750/90764",
+    "id": {
+      "$oid": "65e19e32f57f6991536d0665"
+    },
+    "CikisTarihi": "2007",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/77167"
+  },
+  {
+    "Acıklama": "Hikaye anlatım yöntemi, eğitimin bir çok alanında, neredeyse tüm kademelerinde geçmişten \ngünümüze en sık kullanılan yöntemlerden birisi olmuştur. Bunun en büyük nedenlerinden …",
+    "Baslık": "Bilgisayar destekli hikâye anlatımı yöntemi: Alanyazın araştırması",
+    "Yazar": "G Turgut, T KIŞLA - Turkish Online Journal of Qualitative Inquiry,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/tojqi/issue/21407/229429",
+    "id": {
+      "$oid": "65e19e32f57f6991536d0666"
+    },
+    "CikisTarihi": "2015",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/199880"
+  },
+  {
+    "Acıklama": "… geçmiş bilgisayar deneyiminden çok geçmiş bilgisayar … bilgisayar kullanma öz-yeterlik \ninançları temel bilgisayar … bulunmazken, üst düzey bilgisayar becerileri açısından ele alındığında …",
+    "Baslık": "[PDF][PDF] Bilgisayar ve ögretim teknolojileri egitimi (BÖTE) bölümü ögrencilerinin bilgisayar kullanma öz yeterlik inanci ile demografik özellikleri arasindaki iliski",
+    "Yazar": "B Akkoyunlu, F Orhan - TOJET: The Turkish Online Journal of Educational …,  - tojet.net",
+    "Yonlendirme": "http://tojet.net/articles/v2i3/2311.pdf",
+    "id": {
+      "$oid": "65e19e32f57f6991536d0667"
+    },
+    "CikisTarihi": "2003",
+    "Indirme": "http://tojet.net/articles/v2i3/2311.pdf"
+  },
+  {
+    "Acıklama": "Karar verme, karşılaşılan her türlü durumda belirli kriterleri gözeterek seçenekler arasından \nher zaman en iyisinin seçilmeye çalışıldığı bir süreçtir. Gerek işletmelerin gerekse de …",
+    "Baslık": "[PDF][PDF] Çok kriterli karar verme: Bilgisayar uygulamalı çözümler",
+    "Yazar": "E Ayçin - Nobel Akademik Yayıncılık, Ankara,  - avesis.kocaeli.edu.tr",
+    "Yonlendirme": "https://avesis.kocaeli.edu.tr/yayin/45133fa0-8af0-48fc-b22f-b41bbaa9c5b4/cok-kriterli-karar-verme-bilgisayar-uygulamali-cozumler/document.pdf",
+    "id": {
+      "$oid": "65e19e32f57f6991536d0668"
+    },
+    "CikisTarihi": "2019",
+    "Indirme": "https://avesis.kocaeli.edu.tr/yayin/45133fa0-8af0-48fc-b22f-b41bbaa9c5b4/cok-kriterli-karar-verme-bilgisayar-uygulamali-cozumler/document.pdf"
+  },
+  {
+    "Acıklama": "… MYO öğrencilerinin bilgisayar ve internet … göre bilgisayar ve internet kullanımına yönelik \ndaha olumlu tutum göstermektedir. Bilgisayar sahibi ve internet erişim olan öğrenciler bilgisayar …",
+    "Baslık": "Meslek Yüksekokulu Öğrencilerinin Bilgisayar ve",
+    "Yazar": "S Köse, AS Gencer, K Gezer - Pamukkale Üniversitesi Eğitim …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/pauefd/issue/11122/133015",
+    "id": {
+      "$oid": "65e19e32f57f6991536d0669"
+    },
+    "CikisTarihi": "2007",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/114721"
+  },
+  {
+    "Acıklama": "… Araştırma sonucunda öğrencilerin bilgisayar oyunu bağımlılık … göre bilgisayar oyunu \nbağımlılık düzeyleri yüksek bulunmuştur. Sınıf ve babanın eğitim düzeyi bakımından ise bilgisayar …",
+    "Baslık": "[PDF][PDF] İlköğretim öğrencilerinin bilgisayar oyunu bağimlilik düzeylerinin incelenmesi",
+    "Yazar": "C Şahin, VM Tuğrul - Zeitschrift für die Welt der Türken/Journal of World of …,  - zfwt.org",
+    "Yonlendirme": "https://www.zfwt.org/admin/files/issues/338-1726-1-PB.pdf",
+    "id": {
+      "$oid": "65e19e32f57f6991536d066a"
+    },
+    "CikisTarihi": "2012",
+    "Indirme": "https://www.zfwt.org/admin/files/issues/338-1726-1-PB.pdf"
+  },
+  {
+    "Acıklama": "Bilindiği gibi günümüzde toplumlar hızla değişmektedir. Toplumların bu değişimi, teknolojiyi \nve iletişim alanındaki gelişmeleri beraberinde getirmektedir. Öğretim alanındaki sorunların …",
+    "Baslık": "[PDF][PDF] Bilgisayar destekli eğitimin öğrenciler üzerine etkisi",
+    "Yazar": "Y Çekbaş, H Yakar, B Yıldırım, A Savran… - The Turkish Online …,  - tojet.net",
+    "Yonlendirme": "http://www.tojet.net/volumes/v2i4.pdf#page=76",
+    "id": {
+      "$oid": "65e19e32f57f6991536d066b"
+    },
+    "CikisTarihi": "2003",
+    "Indirme": "http://www.tojet.net/volumes/v2i4.pdf#page=76"
+  },
+  {
+    "Acıklama": "Teknolojideki hızlı gelişme, gündelik yaşamımızı kolaylaştıran pek çok ürünü insanoğlunun \nönüne sunmaktadır. Bu ürünlerin yaşamı kolaylaştırma noktasında getirdiği yararların yanı …",
+    "Baslık": "Öğrencİlerİn bİlgİsayar ve internet kullaniminda yenİ bİr boyut:“İnternet bağimliliği”",
+    "Yazar": "C Cengizhan - Marmara Üniversitesi Atatürk Eğitim Fakültesi Eğitim …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/maruaebd/issue/360/2008",
+    "id": {
+      "$oid": "65e19e32f57f6991536d066c"
+    },
+    "CikisTarihi": "2005",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1746"
+  },
+  {
+    "Acıklama": "… bilgisayar yaşantılarını ve bilgisayar tutumlarını belirleyerek, bilgisayar tutumlarıyla bilgisayar \n… Araştırmada veri toplama aracı olarak, bilgisayar yaşantılarının belirlenmesi için bir bilgi …",
+    "Baslık": "ÖĞRETMEN ADAYLARININ BİLGİSAYAR YAŞANTILARI VE BİLGİSAYAR TUTUMLARI",
+    "Yazar": "L DENİZ - Marmara Üniversitesi Atatürk Eğitim Fakültesi Eğitim …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/maruaebd/issue/381/2384",
+    "id": {
+      "$oid": "65e19e35f57f6991536d066d"
+    },
+    "CikisTarihi": "2013",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1993"
+  },
+  {
+    "Acıklama": "… Cinsiyet değişkeni ile öğretmenlerin bilgisayar özyeterlikleri arasında anlamlı bir farklılık … \nbilgisayar özyeterliği arasında, bilgisayar öğretmenleri ile diğer tüm branşlar arasında bilgisayar …",
+    "Baslık": "İlköğretim öğretmenlerinin bilgisayar özyeterlikleri: Balıkesir ili örneği",
+    "Yazar": "H Özçelik, AA Kurt - İlköğretim online,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/ilkonline/issue/8603/107160",
+    "id": {
+      "$oid": "65e19e35f57f6991536d066e"
+    },
+    "CikisTarihi": "2007",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/91000"
+  },
+  {
+    "Acıklama": "… sınıflarda, harfli ifadelerle işlemler konusunun, bilgisayar destekli … Bilgisayar destekli öğretim \nöncesi deney ve kontrol … ortamında hazırlanan yazılım ile bilgisayar destekli öğretim yöntemi …",
+    "Baslık": "İlköğretim 8. sınıflarda harfli ifadelerle işlemlerin öğretiminde bilgisayar destekli öğretimin rolü",
+    "Yazar": "M Aktümen -  - acikbilim.yok.gov.tr",
+    "Yonlendirme": "https://acikbilim.yok.gov.tr/handle/20.500.12812/374308",
+    "id": {
+      "$oid": "65e19e35f57f6991536d066f"
+    },
+    "CikisTarihi": "2002",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… Bilgisayar destekli öğretim yöntemi ile Bilgisayar dersi alan … , bilgisayar temelli öğretim \nyöntemiyle Bilgisayar dersi alan … Bilgisayar destekli öğretim yöntemi ile Bilgisayar dersi alan …",
+    "Baslık": "Bilgisayar destekli ve bilgisayar temelli öğretim yöntemlerinin, öğrencilerin bilgisayar dersi başarısı ve bilgisayar kullanım tutumlarına etkisi:\" Trakya Üniversitesi …",
+    "Yazar": "N Tosun -  - dspace.trakya.edu.tr",
+    "Yonlendirme": "https://dspace.trakya.edu.tr/xmlui/handle/trakya/568",
+    "id": {
+      "$oid": "65e19e35f57f6991536d0670"
+    },
+    "CikisTarihi": "2006",
+    "Indirme": "https://dspace.trakya.edu.tr/xmlui/bitstream/handle/trakya/568/0042497.pdf?sequence=1&isAllowed=y"
+  },
+  {
+    "Acıklama": "BÖLÜM IV ÖZET YARGI VE ÖNERİLER Özet Bu araştırmada, Türk eğitim sisteminin mevcut \nkoşulları içinde bilgisayar destekli öğretim yönteminin gelenek sel yönteme göre öğrenci …",
+    "Baslık": "Bilgisayar destekli matematik öğretimi",
+    "Yazar": "E Bayraktar -  - acikbilim.yok.gov.tr",
+    "Yonlendirme": "https://acikbilim.yok.gov.tr/handle/20.500.12812/527398",
+    "id": {
+      "$oid": "65e19e35f57f6991536d0671"
+    },
+    "CikisTarihi": "1988",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… konuları kullanılarak hazırlanan bilgisayar destekli programın … ölçekler yardımıyla öğrencilerin \nbilgisayar ve kimya dersine … -1) bilgisayar tabanlı ikincisine (DG-2) ise bilgisayar destekli …",
+    "Baslık": "[PDF][PDF] Bilgisayar tabanlı ve bilgisayar destekli kimya öğretiminin öğrenci tutum ve başarısına etkisi",
+    "Yazar": "H Akçay, C Tüysüz, B Feyzioğlu… - Mersin Üniversitesi Eğitim …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/download/article-file/160950",
+    "id": {
+      "$oid": "65e19e35f57f6991536d0672"
+    },
+    "CikisTarihi": "2008",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/160950"
+  },
+  {
+    "Acıklama": "Bu çalışmada, çocukların ve gençlerin bilgisayar ve İnternet kullanırken karşılaşabilecekleri \ngüvenlik tehlikeleri gözden geçirilmiş, konu ile ilgili yurtdışında yapılan araştırma çalışmalar …",
+    "Baslık": "Çocukların ve gençlerin bilgisayar ve internet güvenliği",
+    "Yazar": "G Canbek, Ş SAĞIROĞLU - Politeknik Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/politeknik/issue/33024/367138",
+    "id": {
+      "$oid": "65e19e35f57f6991536d0673"
+    },
+    "CikisTarihi": "2007",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/384608"
+  },
+  {
+    "Acıklama": "… da arttırmaktadır; bilgisayar kullanıcısı, eriştiği sistem boyutu ve sistemi kullanmadaki amacı \nne olursa olsun, mutlaka öyle ya da böyle bilgisayar haberleşmesinin sunduğu hizmetlerden …",
+    "Baslık": "[KİTAP][B] Bilgisayar haberleşmesi ve ağ teknolojileri",
+    "Yazar": "R Çölkesen, B Örencik -  - papatyabilim.com.tr",
+    "Yonlendirme": "http://papatyabilim.com.tr/pdf/Bilgisayar_Haberlesmesi_Ag_Teknolojileri.pdf",
+    "id": {
+      "$oid": "65e19e35f57f6991536d0674"
+    },
+    "CikisTarihi": "2003",
+    "Indirme": "http://papatyabilim.com.tr/pdf/Bilgisayar_Haberlesmesi_Ag_Teknolojileri.pdf"
+  },
+  {
+    "Acıklama": "… › mlar› na) ulaşma düzeyine bilgisayar destekli öğretim yönteminin etkisini belirlemektir. Bu \n… c› bir öğretme unsuru olan bilgisayar destekli öğretim yönteminin dersin hedeflerine ulaşma …",
+    "Baslık": "[PDF][PDF] Fen bilgisi derslerinde bilgisayar destekli öğretimin dersin hedeflerine ulaşma düzeyine etkisi",
+    "Yazar": "N Yenice, Ş Sümer, HC Oktaylar… - … Eğitim Fakültesi Dergisi,  - efdergi.hacettepe.edu.tr",
+    "Yonlendirme": "http://www.efdergi.hacettepe.edu.tr/yonetim/icerik/makaleler/915-published.pdf",
+    "id": {
+      "$oid": "65e19e35f57f6991536d0675"
+    },
+    "CikisTarihi": "2003",
+    "Indirme": "http://www.efdergi.hacettepe.edu.tr/yonetim/icerik/makaleler/915-published.pdf"
+  },
+  {
+    "Acıklama": "… 302 bay ve 216 bayan bilgisayar öğretmeni adayı ile 55 bay ve 49 bayandan oluşan \nilköğretim bilgisayar öğretmeni, ankete cevap vermiştir. Bilgisayar öğretmenlerinin teknoloji …",
+    "Baslık": "Bilgisayar öğretmenleri okullardaki teknoloji entegrasyonu hakkında ne düşünürler?",
+    "Yazar": "R Çakır, S Yıldırım -  - openaccess.amasya.edu.tr",
+    "Yonlendirme": "http://openaccess.amasya.edu.tr/xmlui/handle/20.500.12450/192",
+    "id": {
+      "$oid": "65e19e35f57f6991536d0676"
+    },
+    "CikisTarihi": "2009",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "Bu araştırmanın amacı; bilgisayar destekli öğretimde kullanılan ders yazılımlarından ELİT \nCLASS yazılımının yazılım değerlendirmede dikkate alınması gereken ölçütlere göre eğitsel …",
+    "Baslık": "Bilgisayar Destekli Öğretimde Bir Ders Yazilimi Değerlendirmesi",
+    "Yazar": "C Güzeller, Ö Korkmaz - Kastamonu Eğitim Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/kefdergi/issue/49108/626705",
+    "id": {
+      "$oid": "65e19e36f57f6991536d0677"
+    },
+    "CikisTarihi": "2007",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/819232"
+  },
+  {
+    "Acıklama": "… uzman yetersizliği, bilgisayar ekranının yazı alanının sınırlı oluşu ve de bilgisayar donanım \nve … Çünkü, model-d ’de eğitimci dersin konusunu anlatmakta, belirli bir süre sonra bilgisayar …",
+    "Baslık": "[PDF][PDF] Bilgisayar destekli eğitim ve uzaktan eğitime genel bir bakiş",
+    "Yazar": "S Dinçer - Akademik Bilişim,  - academia.edu",
+    "Yonlendirme": "https://www.academia.edu/download/48997459/Dincer_-_2006_-_Bilgisayar_destekli_egitim_ve_uzaktan_egitime_genel_bir_bakis.pdf",
+    "id": {
+      "$oid": "65e19e36f57f6991536d0678"
+    },
+    "CikisTarihi": "2006",
+    "Indirme": "https://www.academia.edu/download/48997459/Dincer_-_2006_-_Bilgisayar_destekli_egitim_ve_uzaktan_egitime_genel_bir_bakis.pdf"
+  },
+  {
+    "Acıklama": "… yüksek düzeyde bilgisayar öz-yeterlik inançlarına sahip oldukları ve bilgisayar destekli \nöğretime … Bununla birlikte bilgisayar öz-yeterlik inancı ve bilgisayar destekli öğretime yönelik …",
+    "Baslık": "İlköğretim öğretmenlerinin bilgisayar öz-yeterlik inançları ve bilgisayar destekli öğretime yönelik tutumları",
+    "Yazar": "O Çetin, B Güngör - Ondokuz Mayis University Journal of Education …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/omuefd/issue/20251/214866",
+    "id": {
+      "$oid": "65e19e36f57f6991536d0679"
+    },
+    "CikisTarihi": "2014",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/188034"
+  },
+  {
+    "Acıklama": "… bilgisayar yazılımını nelerin bilgisayar oyunu olarak algılattığını ortaya koysa da eğitsel bir \nbilgisayar … Bu makalede klasik bilgisayar oyunu karakteristiklerine ek olarak iyi bir pedagojiyi …",
+    "Baslık": "[PDF][PDF] EĞİTSEL BİLGİSAYAR OYUNLARI VE BİR ÖRNEK: QUEST ATLANTİS",
+    "Yazar": "H Tüzün - Hacettepe Üniversitesi Eğitim Fakültesi Dergisi,  - efdergi.hacettepe.edu.tr",
+    "Yonlendirme": "http://www.efdergi.hacettepe.edu.tr/yonetim/icerik/makaleler/743-published.pdf",
+    "id": {
+      "$oid": "65e19e36f57f6991536d067a"
+    },
+    "CikisTarihi": "2006",
+    "Indirme": "http://www.efdergi.hacettepe.edu.tr/yonetim/icerik/makaleler/743-published.pdf"
+  },
+  {
+    "Acıklama": "… Öğrencilerin bilgisayar oyun bağımlılık puanlarının cinsiyet, sınıf ve evde bilgisayar olması \ndeğişkenlerine göre anlamlı düzeyde (p<0,05) farklılaştığı görülürken; öğrencilerin bilgisayar …",
+    "Baslık": "İLKÖĞRETİM ÖĞRENCİLERİNİN BİLGİSAYAR OYUN BAĞIMLILIKLARININ İNCELENMESİ.",
+    "Yazar": "M Güllü, C Arslan, A Dündar… - Journal of Social …,  - search.ebscohost.com",
+    "Yonlendirme": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=13089196&asa=Y&AN=90572366&h=hCxNhKL0odlxTNhT%2BmhSjOy7Tk9NBmXsibg3Nd5addfvr%2BmmLav%2FQ0vKE5suutHAjTHt3LH7GoV%2BZOgRvizGxQ%3D%3D&crl=c",
+    "id": {
+      "$oid": "65e19e36f57f6991536d067b"
+    },
+    "CikisTarihi": "2012",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… Oysa internetin ve bilgisayar teknolojisinin anlaşılabilmesi için bu … bu nitel tarihsel analizde, \nbilgisayar teknolojilerinin ve internetin, … Bilgisayar ve internet temelde küreselleşme olarak …",
+    "Baslık": "[PDF][PDF] BİLGİSAYAR ve İNTERNETİN EKONOMİ POLİTİĞİ.",
+    "Yazar": "L Yaylagül - Global Media Journal: Turkish …,  - globalmediajournaltr.yeditepe.edu.tr",
+    "Yonlendirme": "https://globalmediajournaltr.yeditepe.edu.tr/sites/default/files/sayilar/2013_guz/11_levent_yaylagul.pdf",
+    "id": {
+      "$oid": "65e19e36f57f6991536d067c"
+    },
+    "CikisTarihi": "2013",
+    "Indirme": "https://globalmediajournaltr.yeditepe.edu.tr/sites/default/files/sayilar/2013_guz/11_levent_yaylagul.pdf"
+  },
+  {
+    "Acıklama": "… bilgisayar kullanabiliyor olması, % 74’ünün evinde bilgisayar bulunması ve ayrıca eğitim \nfakültelerinin öğretim programlarında yer alan Bilgisayar … kadar bilgisayar teknolojilerinin de …",
+    "Baslık": "[PDF][PDF] Yabancı dil öğretmen adaylarının bilgi ve bilgisayar okuryazarlık öz-yeterlikleri",
+    "Yazar": "E Korkut, B Akkoyunlu - Hacettepe Üniversitesi Eğitim Fakültesi …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/download/article-file/87549",
+    "id": {
+      "$oid": "65e19e36f57f6991536d067d"
+    },
+    "CikisTarihi": "2008",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/87549"
+  },
+  {
+    "Acıklama": "… bilgisayar destekli eğitim ve geleneksel eğitim yöntemlerinden hangisinin daha etkili olduğu \nincelemek, bilgisayar … eğitim ve bilgisayar destekli eğitim hakkında bilgi vermek, bilgisayar …",
+    "Baslık": "[PDF][PDF] Okul öncesi eğitimde bilgisayar destekli eğitimin rolü",
+    "Yazar": "AÖ Kacar, N Doğan - Akademik Bilişim,  - ab.org.tr",
+    "Yonlendirme": "https://ab.org.tr/ab07/bildiri/43.pdf",
+    "id": {
+      "$oid": "65e19e36f57f6991536d067e"
+    },
+    "CikisTarihi": "2007",
+    "Indirme": "https://ab.org.tr/ab07/bildiri/43.pdf"
+  },
+  {
+    "Acıklama": "… METARGEM çeşitli üniversiteler ve bilgisayar şirketleri ile bağlantı kurarak bilgisayar … \ntasarruf tedbirleri nedeni ile bilgisayar laboratuarlarında yeterli elemanın bulundurulmaması …",
+    "Baslık": "[PDF][PDF] Bilgisayar destekli egitime tabi tutulan ortaögretim ögrencileriyle bu süreçte egitici olarak rol alan ögretmenlerin BDE'e iliskin görüsleri",
+    "Yazar": "B Arslan - TOJET: The Turkish Online Journal of Educational …,  - tojet.net",
+    "Yonlendirme": "http://tojet.net/articles/v2i4/2410.pdf",
+    "id": {
+      "$oid": "65e19e36f57f6991536d067f"
+    },
+    "CikisTarihi": "2003",
+    "Indirme": "http://tojet.net/articles/v2i4/2410.pdf"
+  },
+  {
+    "Acıklama": "Hızla gelişen bilim ve teknoloji, eğitim-öğretim alanında da yeni araç, gereç ve donanımların \nkullanılmasına olanak sağlamıştır. Bunların başında kuşkusuz bilgisayarlar en önde gelir. …",
+    "Baslık": "Fizik öğretiminde bilgisayar destekli yeni yaklaşımlar",
+    "Yazar": "Aİ ŞEN - Gazi Üniversitesi Gazi Eğitim Fakültesi Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/gefad/issue/6767/91055",
+    "id": {
+      "$oid": "65e19e38f57f6991536d0680"
+    },
+    "CikisTarihi": "2001",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/77458"
+  },
+  {
+    "Acıklama": "… araştırmalar, bilgisayar öz yeterlik inancı yüksek olan bireylerin bilgisayar kullanmada ve \nbilgisayar kullanılarak yapılan uygulamalara katılmada daha istekli olduklarını ve bilgisayar ile …",
+    "Baslık": "Bilişim teknolojileri öğretmen adaylarının bilgisayar öz-yeterlikleri",
+    "Yazar": "M Tekerek, O Ercan, MS Udum… - Turkish Journal of …,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/turje/issue/17338/181049",
+    "id": {
+      "$oid": "65e19e38f57f6991536d0681"
+    },
+    "CikisTarihi": "2012",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/160495"
+  },
+  {
+    "Acıklama": "… bilgisayar oyunları da bulunmaktadır. Özellikle son yıllarda çocukların bilgisayar oyunu \noynama taleplerinde ve bilgisayar … Bu araştırma, şiddet içerikli bilgisayar oyunu oynayan ve …",
+    "Baslık": "Şiddet içerikli bilgisayar oyunlarının çocuklarda saldırganlığa etkisi",
+    "Yazar": "GBY KARS, BTD YILMAZ -  - dergiler.ankara.edu.tr",
+    "Yonlendirme": "https://dergiler.ankara.edu.tr/xmlui;/handle/20.500.12575/32627",
+    "id": {
+      "$oid": "65e19e38f57f6991536d0682"
+    },
+    "CikisTarihi": "2010",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "… aynı fen bilgisi öğretmeni tarafından bilgisayar destekli olarak … Çalışmanın sonucunda, fen \nbilgisi eğitiminde bilgisayar destekli … Ayrıca bilgisayar destekli eğitim gören öğrencilerin, düz …",
+    "Baslık": "[PDF][PDF] FEN BİLGİSİ EĞİTİMİNDE BİLGİSAYAR DESTEKLİ ÇALIŞMANIN FAYDALARI; DEMİRCİ (MANİSA)'DE BİR ÖRNEK",
+    "Yazar": "A YUMUŞAK, Ş AYCAN - Benefits,  - researchgate.net",
+    "Yonlendirme": "https://www.researchgate.net/profile/Ahmet-Yumusak/publication/242191091_FEN_BILGISI_EGITIMINDE_BILGISAYAR_DESTEKLI_CALISMANIN_FAYDALARI_DEMIRCI_MANISA%27DE_BIR_ORNEK/links/5713f97f08aeff315ba35843/FEN-BILGISI-EGITIMINDE-BILGISAYAR-DESTEKLI-CALISMANIN-FAYDALARI-DEMIRCI-MANISADE-BIR-OeRNEK.pdf",
+    "id": {
+      "$oid": "65e19e38f57f6991536d0683"
+    },
+    "CikisTarihi": "2002",
+    "Indirme": "https://www.researchgate.net/profile/Ahmet-Yumusak/publication/242191091_FEN_BILGISI_EGITIMINDE_BILGISAYAR_DESTEKLI_CALISMANIN_FAYDALARI_DEMIRCI_MANISA%27DE_BIR_ORNEK/links/5713f97f08aeff315ba35843/FEN-BILGISI-EGITIMINDE-BILGISAYAR-DESTEKLI-CALISMANIN-FAYDALARI-DEMIRCI-MANISADE-BIR-OeRNEK.pdf"
+  },
+  {
+    "Acıklama": "Computer self efficacy and cognitive learning strategies are often researched in the literature \nrecently. The research was carried out in Anadolu and Osmangazi University, in 2003–…",
+    "Baslık": "Bilgisayar Özyeterliği Algısı İle Bilişsel Öğrenme Stratejileri Arasındaki İlişki.",
+    "Yazar": "A Gürcan - Eurasian Journal of Educational Research (EJER …,  - search.ebscohost.com",
+    "Yonlendirme": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=1302597X&AN=17104039&h=Q3DcVyXi%2FX4EWDE3%2Bwk8CrkJNdlrApwtICLs6AqAtw7tUTvHunZHD7d8TCDZZeyu%2BXyJAmt8II6J%2FBz%2BT7SRgw%3D%3D&crl=c",
+    "id": {
+      "$oid": "65e19e38f57f6991536d0684"
+    },
+    "CikisTarihi": "2005",
+    "Indirme": "indirme linki yok"
+  },
+  {
+    "Acıklama": "Son yıllarda bilgisayar ve İnternet kullanımı baş döndürücü bir hızla artmakta; çocuk ve … \ntarafından bilgisayar ve İnternet’in nasıl kullanıldığı kısaca tartışılmıştır. Ardından bilgisayar ve …",
+    "Baslık": "Çocuk ve ergenlerde bilgisayar ve internet kullanımının gelişimsel sonuçları",
+    "Yazar": "Y Akbulut - Trakya Üniversitesi Eğitim Fakültesi Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/trkefd/issue/21474/230167",
+    "id": {
+      "$oid": "65e19e38f57f6991536d0685"
+    },
+    "CikisTarihi": "2013",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/200342"
+  },
+  {
+    "Acıklama": "Programlama, herhangi bir problemin bir programlama dili kullanılarak çözülmesi için yazılan \nkod satırlarına verilen isimdir. Programlama mantığı öğretimi ise, programlama öğretiminin …",
+    "Baslık": "[PDF][PDF] Bilgisayar programlama öğretiminde yeni bir yaklaşım",
+    "Yazar": "T Arabacıoğlu, Hİ Bülbül, A Filiz - Akademik bilişim,  - academia.edu",
+    "Yonlendirme": "https://www.academia.edu/download/11053664/arabacioglu_bulbul_ab07.pdf",
+    "id": {
+      "$oid": "65e19e38f57f6991536d0686"
+    },
+    "CikisTarihi": "2007",
+    "Indirme": "https://www.academia.edu/download/11053664/arabacioglu_bulbul_ab07.pdf"
+  },
+  {
+    "Acıklama": "… Sınıf seviyesi, cinsiyet ve gelir düzeyi bakımından bilgisayar destekli eğitime yönelik … tercih \netme, bilgisayar kullanımını teşvik, aktif bir şekilde bilgisayar kullanımı, bilgisayar ile eğitimin …",
+    "Baslık": "[PDF][PDF] Öğretmen adaylarının bilgisayar destekli eğitime karşı tutumları",
+    "Yazar": "S Yıldırım, A Kaban - Uluslararası insan bilimleri Dergisi,  - acarindex.com",
+    "Yonlendirme": "https://www.acarindex.com/dosyalar/makale/acarindex-1423936493.pdf",
+    "id": {
+      "$oid": "65e19e38f57f6991536d0687"
+    },
+    "CikisTarihi": "2010",
+    "Indirme": "https://www.acarindex.com/dosyalar/makale/acarindex-1423936493.pdf"
+  },
+  {
+    "Acıklama": "… Bilgisayar oyunları, günümüzde çocukların en önemli … Bu araştırmada ilköğretim okullarında \nokuyan öğrencilerin bilgisayar … Bilgisayar sahibi olma açısından oyun bağımlılığında anlamlı …",
+    "Baslık": "İlköğretim öğrencilerinin bilgisayar oyunu bağımlılık düzeylerinin çeşitli değişkenlere göre incelenmesi",
+    "Yazar": "MB Horzum - Eğitim ve Bilim,  - ...",
+    "Yonlendirme": "http://213.14.10.181/index.php/EB/article/view/268",
+    "id": {
+      "$oid": "65e19e38f57f6991536d0688"
+    },
+    "CikisTarihi": "20112131410181",
+    "Indirme": "http://213.14.10.181/index.php/EB/article/download/268/238"
+  },
+  {
+    "Acıklama": "… bilgisayar oyunu oynadıkları, bilgisayar oyunu oynama durumları ile anne ve babalarının \nbilgisayar … % 78.1’inin genellikle ve daima çocuklarının bilgisayar oyunu oynamasını, % 61’inin …",
+    "Baslık": "Okul öncesi eğitim alan çocukların ve ailelerinin bilgisayar oyunu oynama alışkanlıklarının değerlendirilmesi",
+    "Yazar": "D Akçay, H Özcebe - Çocuk Dergisi,  - dergipark.org.tr",
+    "Yonlendirme": "https://dergipark.org.tr/en/pub/jchild/article/805202",
+    "id": {
+      "$oid": "65e19e38f57f6991536d0689"
+    },
+    "CikisTarihi": "2012",
+    "Indirme": "https://dergipark.org.tr/en/download/article-file/1327912"
+  }
+]
